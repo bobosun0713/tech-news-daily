@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-24](./daily/2026-05-24.md) — Constraint Decay：LLM 代理在後端程式生成的約束衰減
 <!-- DAILY_INDEX_END -->
 
 ---
