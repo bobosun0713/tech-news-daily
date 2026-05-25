@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | — |
-| ⚙️ 後端 | — |
-| 🤖 AI | — |
+| 🎨 前端 | [Vite 8.0.14：Rolldown 升級與 dev server 修正](./frontend/daily/2026-05-25.md) |
+| ⚙️ 後端 | [Node.js 內建虛擬檔案系統提案：AI 貢獻治理掀討論](./backend/daily/2026-05-25.md) |
+| 🤖 AI | [DeepSeek Reasonix：終端機原生 coding agent 持續受關注](./ai/daily/2026-05-25.md) |
 
 ---
 

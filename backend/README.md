@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-25](./daily/2026-05-25.md) — Node.js 內建虛擬檔案系統提案：AI 貢獻治理掀討論
 <!-- DAILY_INDEX_END -->
 
 ---
