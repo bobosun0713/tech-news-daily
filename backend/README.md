@@ -1,6 +1,6 @@
 # ⚙️ 後端技術快遞
 
-> 每日精選架構探討、資料庫優化、API 設計、資安更新等高價值技術資訊。
+> 聚焦架構設計、API、資料庫、DevOps、資安與後端平台工程的每日精選。
 
 [🏠 回到總大廳](../README.md) | [🎨 前端](../frontend/README.md) | [🤖 AI](../ai/README.md)
 
@@ -9,8 +9,9 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-26](./daily/2026-05-26.md) — GitHub Actions 與 Pages 再度中斷，提醒 CI/CD 依賴風險
 - [2026-05-25](./daily/2026-05-25.md) — Node.js 提議內建虛擬檔案系統，掀起治理討論
-- [2026-05-24](./daily/2026-05-24.md) — AWS MCP Server 正式 GA：以 IAM 治理 AI 對 AWS API 的存取
+- [2026-05-24](./daily/2026-05-24.md) — AWS MCP、BigQuery 與 Discord/ScyllaDB 自動化更新
 <!-- DAILY_INDEX_END -->
 
 ---

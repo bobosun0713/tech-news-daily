@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-26](./daily/2026-05-26.md) — Vite 8.0.14：持續修補開發體驗與升級細節
 - [2026-05-25](./daily/2026-05-25.md) — TanStack Router：修正 Vite dev 中的 encoded adapter ids
 - [2026-05-24](./daily/2026-05-24.md) — Vite 8.0.14：Rolldown 升級與多項修正
 <!-- DAILY_INDEX_END -->
