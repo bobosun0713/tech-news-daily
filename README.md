@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [TanStack Start React / Solid 套件同步更新 1.168.x](./frontend/daily/2026-05-27.md) |
-| ⚙️ 後端 | [InfoQ 推出 Pullfrog AI：GitHub Actions 自動 code review 替代方案](./backend/daily/2026-05-27.md) |
-| 🤖 AI | [MEMO：不改 LLM 參數的專屬記憶模型訓練框架](./ai/daily/2026-05-27.md) |
+| 🎨 前端 | [React 資料抓取策略與效能優化再升級](./frontend/daily/2026-05-30.md) |
+| ⚙️ 後端 | [Google Cloud 停用 Railway 帳號引發平台級中斷](./backend/daily/2026-05-30.md) |
+| 🤖 AI | [Hermes Agent Tool Search 讓 MCP 準確率再提升](./ai/daily/2026-05-30.md) |
 
 ---
 
