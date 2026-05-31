@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-31](./daily/2026-05-31.md) — 自動占位（待填）
 - [2026-05-30](./daily/2026-05-30.md) — Hermes Agent 推出 MCP 工具搜尋，Opus 4 評測準確率提升 49%～74%
 - [2026-05-27](./daily/2026-05-27.md) — MEMO：不改 LLM 參數的專屬記憶模型訓練框架
 - [2026-05-26](./daily/2026-05-26.md) — InfoQ 推出 AI Engineering 與 Organizational Architecture 認證新梯次
