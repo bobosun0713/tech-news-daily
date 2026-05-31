@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-31](./daily/2026-05-31.md) — 自動占位（待填）
 - [2026-05-30](./daily/2026-05-30.md) — Google Cloud 暫停 Railway 生產帳號，引發八小時平台級中斷
 - [2026-05-27](./daily/2026-05-27.md) — InfoQ 推出 Pullfrog AI：GitHub Actions 自動 code review 替代方案
 - [2026-05-26](./daily/2026-05-26.md) — GitHub Actions 與 Pages 再度中斷，提醒 CI/CD 依賴風險
