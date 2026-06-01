@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-06-01](./daily/2026-06-01.md) — Microsoft Agent Governance Toolkit 實作：工具呼叫納入審批與稽核 (An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls)
 - [2026-05-31](./daily/2026-05-31.md) — 我讓 AI 模型互相辯論，然後讓 Hermes 做裁判 (I Made My AI Models Argue, Then Let Hermes Be the Judge)
 - [2026-05-30](./daily/2026-05-30.md) — Hermes Agent 推出 MCP 工具搜尋，Opus 4 評測準確率提升 49%～74%
 - [2026-05-27](./daily/2026-05-27.md) — MEMO：不改 LLM 參數的專屬記憶模型訓練框架
