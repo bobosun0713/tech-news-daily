@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [工作流編輯器 2.0 升級為可嵌入 React SDK (How we turned our workflow editor into a real SDK)](./frontend/daily/2026-06-02.md) |
-| ⚙️ 後端 | [OpenTelemetry Blueprints 以範本化部署降低企業可觀測性導入複雜度 (OpenTelemetry Launches “Blueprints” Initiative to Simplify Enterprise Observability Adoption)](./backend/daily/2026-06-02.md) |
-| 🤖 AI | [Qwen3.7-Plus 把視覺、深度推理、工具調用與自主迭代整合進 Bailian 平台 (Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform)](./ai/daily/2026-06-02.md) |
+| 🎨 前端 | [單頁應用的 Import Map 與 Single-spa 維運提醒 (SingleSPA Works. Import Maps Don't Manage Themselves.)](./frontend/daily/2026-06-14.md) |
+| ⚙️ 後端 | [AWS 為 ElastiCache for Valkey 新增持久化儲存選項 (AWS Introduces Durable Storage Option for ElastiCache for Valkey)](./backend/daily/2026-06-14.md) |
+| 🤖 AI | [Databricks 開源 Omnigent：跨 Claude Code、Codex、Pi 的 AI Agent 中介層 (Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi)](./ai/daily/2026-06-14.md) |
 
 ---
 
