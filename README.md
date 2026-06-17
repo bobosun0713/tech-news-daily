@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [單頁應用的 Import Map 與 Single-spa 維運提醒 (SingleSPA Works. Import Maps Don't Manage Themselves.)](./frontend/daily/2026-06-14.md) |
-| ⚙️ 後端 | [AWS 為 ElastiCache for Valkey 新增持久化儲存選項 (AWS Introduces Durable Storage Option for ElastiCache for Valkey)](./backend/daily/2026-06-14.md) |
-| 🤖 AI | [Databricks 開源 Omnigent：跨 Claude Code、Codex、Pi 的 AI Agent 中介層 (Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi)](./ai/daily/2026-06-14.md) |
+| 🎨 前端 | [改善 Next.js 的 hydration TTI：把首屏慢點排除掉 (Fixing Slow TTI: Optimizing React Hydration in Next.js)](./frontend/daily/2026-06-17.md) |
+| ⚙️ 後端 | [PostgreSQL 19 beta 加入 SQL Graph Queries 與並行表重包裝 (PostgreSQL 19 Beta Introduces SQL Graph Queries and Concurrent Table Repacking)](./backend/daily/2026-06-17.md) |
+| 🤖 AI | [MiniMax Sparse Attention：109B MoE 的雙分支區塊稀疏注意力 (MiniMax Sparse Attention (MSA): a Two-Branch Block-Sparse Attention Trained on a 109B-Parameter MoE With a 3T-Token Budget)](./ai/daily/2026-06-17.md) |
 
 ---
 
