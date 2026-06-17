@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-06-17](./daily/2026-06-17.md) — 改善 Next.js 的 hydration TTI：把首屏慢點排除掉 (Fixing Slow TTI: Optimizing React Hydration in Next.js)
 - [2026-06-14](./daily/2026-06-14.md) — 單頁應用的 Import Map 與 Single-spa 維運提醒 (SingleSPA Works. Import Maps Don't Manage Themselves.)
 - [2026-06-02](./daily/2026-06-02.md) — 工作流編輯器 2.0 升級為可嵌入 React SDK (How we turned our workflow editor into a real SDK)
 - [2026-06-01](./daily/2026-06-01.md) — Vendor chunking 實戰：把 React bundle 切開後更容易控制首屏載入 (Vendor Chunking: The React Optimization I Wish I'd Known Earlier)
 - [2026-05-31](./daily/2026-05-31.md) — Lazy Loading Was"t Enough: How I Cut Load Time from 15s to 1.1s
 - [2026-05-30](./daily/2026-05-30.md) — 停止在 useEffect 裡抓資料，改用 Request Strategies
 - [2026-05-27](./daily/2026-05-27.md) — TanStack Start React / Solid 套件同步更新 1.168.x
-- [2026-05-26](./daily/2026-05-26.md) — Webpack 5.107.2：批次化 ContextModuleFactory 解析以降低 rebuild overhead
 <!-- DAILY_INDEX_END -->
 
 ---
