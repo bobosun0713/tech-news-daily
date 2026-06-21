@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [改善 Next.js 的 hydration TTI：把首屏慢點排除掉 (Fixing Slow TTI: Optimizing React Hydration in Next.js)](./frontend/daily/2026-06-17.md) |
-| ⚙️ 後端 | [PostgreSQL 19 beta 加入 SQL Graph Queries 與並行表重包裝 (PostgreSQL 19 Beta Introduces SQL Graph Queries and Concurrent Table Repacking)](./backend/daily/2026-06-17.md) |
-| 🤖 AI | [MiniMax Sparse Attention：109B MoE 的雙分支區塊稀疏注意力 (MiniMax Sparse Attention (MSA): a Two-Branch Block-Sparse Attention Trained on a 109B-Parameter MoE With a 3T-Token Budget)](./ai/daily/2026-06-17.md) |
+| 🎨 前端 | [為何今天開始學 React Query：把 loading、error 與快取邏輯從 useEffect 拆開 (Why I Started Learning React Query (TanStack Query) Today)](./frontend/daily/2026-06-20.md) |
+| ⚙️ 後端 | [Spring Boot 專案結構不再只靠 Spring Initializr (How to Structure Spring Boot Projects Beyond Spring Initializr)](./backend/daily/2026-06-20.md) |
+| 🤖 AI | [Apple 推出 Core AI：為 Apple Silicon 最佳化的端側生成式 AI (Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI)](./ai/daily/2026-06-20.md) |
 
 ---
 
