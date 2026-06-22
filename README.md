@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [為何今天開始學 React Query：把 loading、error 與快取邏輯從 useEffect 拆開 (Why I Started Learning React Query (TanStack Query) Today)](./frontend/daily/2026-06-20.md) |
-| ⚙️ 後端 | [Spring Boot 專案結構不再只靠 Spring Initializr (How to Structure Spring Boot Projects Beyond Spring Initializr)](./backend/daily/2026-06-20.md) |
-| 🤖 AI | [Apple 推出 Core AI：為 Apple Silicon 最佳化的端側生成式 AI (Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI)](./ai/daily/2026-06-20.md) |
+| 🎨 前端 | [React Server Components 2026：模式、陷阱與何時該用 (React Server Components in 2026: Patterns, Pitfalls, and When to Actually Use Them)](./frontend/daily/2026-06-22.md) |
+| ⚙️ 後端 | [AWS Graviton5 正式 GA：192 核與形式化驗證 VM 隔離 (AWS Graviton5 Reaches General Availability with 192 Cores and Formally Verified VM Isolation)](./backend/daily/2026-06-22.md) |
+| 🤖 AI | [PP-OCRv6 登上 Hugging Face：50 語 OCR、參數更小 (PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters)](./ai/daily/2026-06-22.md) |
 
 ---
 
