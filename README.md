@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Next.js 部分預渲染指南：PPR 怎麼切靜態與動態區塊 (Next.js Partial Prerendering (PPR) Guide (2026))](./frontend/daily/2026-06-23.md) |
-| ⚙️ 後端 | [AWS Blocks：給 AI Agent 建後端的開源 TypeScript 框架 (AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends)](./backend/daily/2026-06-23.md) |
-| 🤖 AI | [CUGA 輕量 harness 實戰：兩打 agentic app 範例 (Build real agentic apps using CUGA: two dozen working examples on a lightweight harness)](./ai/daily/2026-06-23.md) |
+| 🎨 前端 | [React 19 的 useTransition 與 useDeferredValue：2026 年該怎麼選？ (React 19 useTransition & useDeferredValue: When to Use Which (2026))](./frontend/daily/2026-06-24.md) |
+| ⚙️ 後端 | [Azure Kubernetes Service 加入裸機、Fleet 管理與 AI 基礎設施 (Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure)](./backend/daily/2026-06-24.md) |
+| 🤖 AI | [Hermes Agent 的技能系統加入 /learn：把工作流變成 slash command (Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md)](./ai/daily/2026-06-24.md) |
 
 ---
 
