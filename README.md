@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React 19 的 useTransition 與 useDeferredValue：2026 年該怎麼選？ (React 19 useTransition & useDeferredValue: When to Use Which (2026))](./frontend/daily/2026-06-24.md) |
-| ⚙️ 後端 | [Azure Kubernetes Service 加入裸機、Fleet 管理與 AI 基礎設施 (Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure)](./backend/daily/2026-06-24.md) |
-| 🤖 AI | [Hermes Agent 的技能系統加入 /learn：把工作流變成 slash command (Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md)](./ai/daily/2026-06-24.md) |
+| 🎨 前端 | [Vue 2 進入 EOL：風險與遷移到 Vue 3 的實務建議 (Vue 2 End of Life: EOL Date, Risk, and Migration to Vue 3)](./frontend/daily/2026-06-28.md) |
+| ⚙️ 後端 | [AWS 預覽 FinOps Agent：把成本分析與優化流程自動化 (AWS Previews FinOps Agent for Cost Analysis and Optimization)](./backend/daily/2026-06-28.md) |
+| 🤖 AI | [只要一行就能在 HF Jobs 跑起 vLLM 伺服器 (Run a vLLM Server on HF Jobs in One Command)](./ai/daily/2026-06-28.md) |
 
 ---
 
