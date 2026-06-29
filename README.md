@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vue 2 進入 EOL：風險與遷移到 Vue 3 的實務建議 (Vue 2 End of Life: EOL Date, Risk, and Migration to Vue 3)](./frontend/daily/2026-06-28.md) |
-| ⚙️ 後端 | [AWS 預覽 FinOps Agent：把成本分析與優化流程自動化 (AWS Previews FinOps Agent for Cost Analysis and Optimization)](./backend/daily/2026-06-28.md) |
-| 🤖 AI | [只要一行就能在 HF Jobs 跑起 vLLM 伺服器 (Run a vLLM Server on HF Jobs in One Command)](./ai/daily/2026-06-28.md) |
+| 🎨 前端 | [瀏覽器端壓縮 PDF：Vue 3 與 pdf-lib 的離線做法 (How I Compress PDFs in the Browser with Vue 3 and pdf-lib)](./frontend/daily/2026-06-29.md) |
+| ⚙️ 後端 | [冪等與對帳：從實戰血淚學到的可靠性原則 (Idempotency and reconciliation, learned the hard way)](./backend/daily/2026-06-29.md) |
+| 🤖 AI | [EverOS：以 Markdown 為核心的 agent 記憶執行層 (Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills)](./ai/daily/2026-06-29.md) |
 
 ---
 

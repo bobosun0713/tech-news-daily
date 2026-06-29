@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-06-29](./daily/2026-06-29.md) — EverOS：以 Markdown 為核心的 agent 記憶執行層 (Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills)
 - [2026-06-28](./daily/2026-06-28.md) — 只要一行就能在 HF Jobs 跑起 vLLM 伺服器 (Run a vLLM Server on HF Jobs in One Command)
 - [2026-06-24](./daily/2026-06-24.md) — Hermes Agent 的技能系統加入 /learn：把工作流變成 slash command (Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md)
 - [2026-06-23](./daily/2026-06-23.md) — CUGA 輕量 harness 實戰：兩打 agentic app 範例 (Build real agentic apps using CUGA: two dozen working examples on a lightweight harness)
 - [2026-06-22](./daily/2026-06-22.md) — PP-OCRv6 登上 Hugging Face：50 語 OCR、參數更小 (PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters)
 - [2026-06-20](./daily/2026-06-20.md) — Apple 推出 Core AI：為 Apple Silicon 最佳化的端側生成式 AI (Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI)
 - [2026-06-17](./daily/2026-06-17.md) — MiniMax Sparse Attention：109B MoE 的雙分支區塊稀疏注意力 (MiniMax Sparse Attention (MSA): a Two-Branch Block-Sparse Attention Trained on a 109B-Parameter MoE With a 3T-Token Budget)
-- [2026-06-14](./daily/2026-06-14.md) — Databricks 開源 Omnigent：跨 Claude Code、Codex、Pi 的 AI Agent 中介層 (Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,6 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
-- [2026-06 第 1 頁](./archives/2026-06-page-1.md) — 收錄 2026-06-02、2026-06-01
+- [2026-06 第 1 頁](./archives/2026-06-page-1.md) — 收錄 2026-06-14、2026-06-02、2026-06-01
 - [2026-05 第 1 頁](./archives/2026-05-page-1.md) — 收錄 2026-05-31、2026-05-30、2026-05-27、2026-05-26、2026-05-25、2026-05-24
 <!-- ARCHIVE_INDEX_END -->
