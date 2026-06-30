@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [瀏覽器端壓縮 PDF：Vue 3 與 pdf-lib 的離線做法 (How I Compress PDFs in the Browser with Vue 3 and pdf-lib)](./frontend/daily/2026-06-29.md) |
-| ⚙️ 後端 | [冪等與對帳：從實戰血淚學到的可靠性原則 (Idempotency and reconciliation, learned the hard way)](./backend/daily/2026-06-29.md) |
-| 🤖 AI | [EverOS：以 Markdown 為核心的 agent 記憶執行層 (Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills)](./ai/daily/2026-06-29.md) |
+| 🎨 前端 | [React 應用的 Core Web Vitals 與 INP 優化 (Core Web Vitals & INP Optimization for React Apps (2026))](./frontend/daily/2026-06-30.md) |
+| ⚙️ 後端 | [Azure DevOps 的 AI 漏洞修補 Autofix (Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix)](./backend/daily/2026-06-30.md) |
+| 🤖 AI | [Meta AI 的 Brain2Qwerty v2：MEG 腦波轉文字管線 (Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy)](./ai/daily/2026-06-30.md) |
 
 ---
 
