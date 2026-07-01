@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-07-01](./daily/2026-07-01.md) — Hugging Face 與 Cerebras 推進 Gemma 4 即時語音 AI (Hugging Face and Cerebras bring Gemma 4 to real-time voice AI)
 - [2026-06-30](./daily/2026-06-30.md) — Meta AI 的 Brain2Qwerty v2：MEG 腦波轉文字管線 (Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy)
 - [2026-06-29](./daily/2026-06-29.md) — EverOS：以 Markdown 為核心的 agent 記憶執行層 (Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills)
 - [2026-06-28](./daily/2026-06-28.md) — 只要一行就能在 HF Jobs 跑起 vLLM 伺服器 (Run a vLLM Server on HF Jobs in One Command)
@@ -23,6 +24,6 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
-- [2026-06 第 1 頁](./archives/2026-06-page-1.md) — 收錄 2026-06-17、2026-06-14、2026-06-02、2026-06-01
+- [2026-06 第 1 頁](./archives/2026-06-page-1.md) — 收錄 2026-06-20、2026-06-17、2026-06-14、2026-06-02、2026-06-01
 - [2026-05 第 1 頁](./archives/2026-05-page-1.md) — 收錄 2026-05-31、2026-05-30、2026-05-27、2026-05-26、2026-05-25、2026-05-24
 <!-- ARCHIVE_INDEX_END -->
