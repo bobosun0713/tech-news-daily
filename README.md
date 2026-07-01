@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React 應用的 Core Web Vitals 與 INP 優化 (Core Web Vitals & INP Optimization for React Apps (2026))](./frontend/daily/2026-06-30.md) |
-| ⚙️ 後端 | [Azure DevOps 的 AI 漏洞修補 Autofix (Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix)](./backend/daily/2026-06-30.md) |
-| 🤖 AI | [Meta AI 的 Brain2Qwerty v2：MEG 腦波轉文字管線 (Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy)](./ai/daily/2026-06-30.md) |
+| 🎨 前端 | [HeroUI v3：React / React Native 重寫，接軌 Tailwind CSS v4 (HeroUI v3 Lands as a Ground-Up Rewrite for React and React Native, Built on Tailwind CSS v4)](./frontend/daily/2026-07-01.md) |
+| ⚙️ 後端 | [Instacart 以配置驅動的多租戶平台擴展個人化行銷 (Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform)](./backend/daily/2026-07-01.md) |
+| 🤖 AI | [Hugging Face 與 Cerebras 推進 Gemma 4 即時語音 AI (Hugging Face and Cerebras bring Gemma 4 to real-time voice AI)](./ai/daily/2026-07-01.md) |
 
 ---
 
