@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [HeroUI v3：React / React Native 重寫，接軌 Tailwind CSS v4 (HeroUI v3 Lands as a Ground-Up Rewrite for React and React Native, Built on Tailwind CSS v4)](./frontend/daily/2026-07-01.md) |
-| ⚙️ 後端 | [Instacart 以配置驅動的多租戶平台擴展個人化行銷 (Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform)](./backend/daily/2026-07-01.md) |
-| 🤖 AI | [Hugging Face 與 Cerebras 推進 Gemma 4 即時語音 AI (Hugging Face and Cerebras bring Gemma 4 to real-time voice AI)](./ai/daily/2026-07-01.md) |
+| 🎨 前端 | [分享路由樹以外的一切：TanStack Router 的多客戶 Monorepo (Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router)](./frontend/daily/2026-07-02.md) |
+| ⚙️ 後端 | [從專案轉向產品：平台開發思維的重整 (Shifting Platform Development from Projects to Products)](./backend/daily/2026-07-02.md) |
+| 🤖 AI | [LLM 供應商切換不需停機 (How to Switch LLM Providers Without Downtime)](./ai/daily/2026-07-02.md) |
 
 ---
 
