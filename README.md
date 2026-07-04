@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [分享路由樹以外的一切：TanStack Router 的多客戶 Monorepo (Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router)](./frontend/daily/2026-07-02.md) |
-| ⚙️ 後端 | [從專案轉向產品：平台開發思維的重整 (Shifting Platform Development from Projects to Products)](./backend/daily/2026-07-02.md) |
-| 🤖 AI | [LLM 供應商切換不需停機 (How to Switch LLM Providers Without Downtime)](./ai/daily/2026-07-02.md) |
+| 🎨 前端 | [讓 React 效能優化回到真正有感的地方 (React Performance Optimizations I Actually Used in Production)](./frontend/daily/2026-07-04.md) |
+| ⚙️ 後端 | [Cycle 歐盟控制平面登場：主權與合規再平衡 (Cycle Introduces EU Control Plane as Sovereignty Debate Continues)](./backend/daily/2026-07-04.md) |
+| 🤖 AI | [Mistral Leanstral 1.5：面向 Lean 4 的開源 code agent 模型 (Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems)](./ai/daily/2026-07-04.md) |
 
 ---
 
