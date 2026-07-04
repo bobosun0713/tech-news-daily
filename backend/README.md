@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-07-04](./daily/2026-07-04.md) — Cycle 歐盟控制平面登場：主權與合規再平衡 (Cycle Introduces EU Control Plane as Sovereignty Debate Continues)
 - [2026-07-02](./daily/2026-07-02.md) — 從專案轉向產品：平台開發思維的重整 (Shifting Platform Development from Projects to Products)
 - [2026-07-01](./daily/2026-07-01.md) — Instacart 以配置驅動的多租戶平台擴展個人化行銷 (Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform)
 - [2026-06-30](./daily/2026-06-30.md) — Azure DevOps 的 AI 漏洞修補 Autofix (Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix)
 - [2026-06-29](./daily/2026-06-29.md) — 冪等與對帳：從實戰血淚學到的可靠性原則 (Idempotency and reconciliation, learned the hard way)
 - [2026-06-28](./daily/2026-06-28.md) — AWS 預覽 FinOps Agent：把成本分析與優化流程自動化 (AWS Previews FinOps Agent for Cost Analysis and Optimization)
 - [2026-06-24](./daily/2026-06-24.md) — Azure Kubernetes Service 加入裸機、Fleet 管理與 AI 基礎設施 (Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure)
-- [2026-06-23](./daily/2026-06-23.md) — AWS Blocks：給 AI Agent 建後端的開源 TypeScript 框架 (AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends)
 <!-- DAILY_INDEX_END -->
 
 ---
