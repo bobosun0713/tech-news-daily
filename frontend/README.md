@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-07-05](./daily/2026-07-05.md) — 20 套可直接交付的 Next.js + Tailwind 模板架構 (I Built 20 Production-Ready Next.js + Tailwind Templates — Here's the Architecture)
 - [2026-07-04](./daily/2026-07-04.md) — 讓 React 效能優化回到真正有感的地方 (React Performance Optimizations I Actually Used in Production)
 - [2026-07-02](./daily/2026-07-02.md) — 分享路由樹以外的一切：TanStack Router 的多客戶 Monorepo (Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router)
 - [2026-07-01](./daily/2026-07-01.md) — HeroUI v3：React / React Native 重寫，接軌 Tailwind CSS v4 (HeroUI v3 Lands as a Ground-Up Rewrite for React and React Native, Built on Tailwind CSS v4)
 - [2026-06-30](./daily/2026-06-30.md) — React 應用的 Core Web Vitals 與 INP 優化 (Core Web Vitals & INP Optimization for React Apps (2026))
 - [2026-06-29](./daily/2026-06-29.md) — 瀏覽器端壓縮 PDF：Vue 3 與 pdf-lib 的離線做法 (How I Compress PDFs in the Browser with Vue 3 and pdf-lib)
 - [2026-06-28](./daily/2026-06-28.md) — Vue 2 進入 EOL：風險與遷移到 Vue 3 的實務建議 (Vue 2 End of Life: EOL Date, Risk, and Migration to Vue 3)
-- [2026-06-24](./daily/2026-06-24.md) — React 19 的 useTransition 與 useDeferredValue：2026 年該怎麼選？ (React 19 useTransition & useDeferredValue: When to Use Which (2026))
 <!-- DAILY_INDEX_END -->
 
 ---
