@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [讓 React 效能優化回到真正有感的地方 (React Performance Optimizations I Actually Used in Production)](./frontend/daily/2026-07-04.md) |
-| ⚙️ 後端 | [Cycle 歐盟控制平面登場：主權與合規再平衡 (Cycle Introduces EU Control Plane as Sovereignty Debate Continues)](./backend/daily/2026-07-04.md) |
-| 🤖 AI | [Mistral Leanstral 1.5：面向 Lean 4 的開源 code agent 模型 (Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems)](./ai/daily/2026-07-04.md) |
+| 🎨 前端 | [20 套可直接交付的 Next.js + Tailwind 模板架構 (I Built 20 Production-Ready Next.js + Tailwind Templates — Here's the Architecture)](./frontend/daily/2026-07-05.md) |
+| ⚙️ 後端 | [HTTP QUERY 正式進場：快取正確性比想像中更難 (The HTTP QUERY method (RFC 10008) is here — and caching it correctly is harder than it looks)](./backend/daily/2026-07-05.md) |
+| 🤖 AI | [Anthropic 推出 Claude Science Beta：把多代理工作台帶進可重現科學流程 (Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines)](./ai/daily/2026-07-05.md) |
 
 ---
 
