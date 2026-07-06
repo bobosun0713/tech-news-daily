@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [20 套可直接交付的 Next.js + Tailwind 模板架構 (I Built 20 Production-Ready Next.js + Tailwind Templates — Here's the Architecture)](./frontend/daily/2026-07-05.md) |
-| ⚙️ 後端 | [HTTP QUERY 正式進場：快取正確性比想像中更難 (The HTTP QUERY method (RFC 10008) is here — and caching it correctly is harder than it looks)](./backend/daily/2026-07-05.md) |
-| 🤖 AI | [Anthropic 推出 Claude Science Beta：把多代理工作台帶進可重現科學流程 (Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines)](./ai/daily/2026-07-05.md) |
+| 🎨 前端 | [Next.js 16 生產環境升級實戰：Turbopack、proxy 與 async params 的地雷 (Upgrading to Next.js 16: Field Notes from Two Production Apps)](./frontend/daily/2026-07-06.md) |
+| ⚙️ 後端 | [Spring Boot Actuator 暴露策略：哪些端點該開、哪些該藏 (Spring Boot Actuator: What to Expose, What to Hide, and What to Check Before Adding Endpoints)](./backend/daily/2026-07-06.md) |
+| 🤖 AI | [Sakana AI 推出 Sakana Translate：日英中三語雙向翻譯工具 (Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes)](./ai/daily/2026-07-06.md) |
 
 ---
 
