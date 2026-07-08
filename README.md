@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Next.js 16 生產環境升級實戰：Turbopack、proxy 與 async params 的地雷 (Upgrading to Next.js 16: Field Notes from Two Production Apps)](./frontend/daily/2026-07-06.md) |
-| ⚙️ 後端 | [Spring Boot Actuator 暴露策略：哪些端點該開、哪些該藏 (Spring Boot Actuator: What to Expose, What to Hide, and What to Check Before Adding Endpoints)](./backend/daily/2026-07-06.md) |
-| 🤖 AI | [Sakana AI 推出 Sakana Translate：日英中三語雙向翻譯工具 (Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes)](./ai/daily/2026-07-06.md) |
+| 🎨 前端 | [Vite+ Beta 詮釋：JavaScript 工具鏈的下一步是什麼？ (Vite+ Beta Explained: The Future of JavaScript Tooling?)](./frontend/daily/2026-07-08.md) |
+| ⚙️ 後端 | [Node.js 26 上線：Temporal 預設啟用、V8 14.6 與 API 淘汰潮 (Node.js 26: Temporal API Enabled by Default, V8 14.6, and a Round of Deprecations)](./backend/daily/2026-07-08.md) |
+| 🤖 AI | [SWE-Review：把 Agentic Code Review 變成 issue 解決閉環 (SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review)](./ai/daily/2026-07-08.md) |
 
 ---
 
