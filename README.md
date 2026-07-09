@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite+ Beta 詮釋：JavaScript 工具鏈的下一步是什麼？ (Vite+ Beta Explained: The Future of JavaScript Tooling?)](./frontend/daily/2026-07-08.md) |
-| ⚙️ 後端 | [Node.js 26 上線：Temporal 預設啟用、V8 14.6 與 API 淘汰潮 (Node.js 26: Temporal API Enabled by Default, V8 14.6, and a Round of Deprecations)](./backend/daily/2026-07-08.md) |
-| 🤖 AI | [SWE-Review：把 Agentic Code Review 變成 issue 解決閉環 (SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review)](./ai/daily/2026-07-08.md) |
+| 🎨 前端 | [Vue 樹狀結構效能大提速：不改 UI 也能快 10 倍 (How I made my Vue tree 10x faster without changing the UI)](./frontend/daily/2026-07-09.md) |
+| ⚙️ 後端 | [OpenAI 修補 18 年 GNU libunwind 核心 dump bug：把 crash debug 當成流行病分析 (OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology)](./backend/daily/2026-07-09.md) |
+| 🤖 AI | [NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B：壓縮 MoE 仍能拉高吞吐 (NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput)](./ai/daily/2026-07-09.md) |
 
 ---
 
