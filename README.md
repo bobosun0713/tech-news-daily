@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vue 樹狀結構效能大提速：不改 UI 也能快 10 倍 (How I made my Vue tree 10x faster without changing the UI)](./frontend/daily/2026-07-09.md) |
-| ⚙️ 後端 | [OpenAI 修補 18 年 GNU libunwind 核心 dump bug：把 crash debug 當成流行病分析 (OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology)](./backend/daily/2026-07-09.md) |
-| 🤖 AI | [NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B：壓縮 MoE 仍能拉高吞吐 (NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput)](./ai/daily/2026-07-09.md) |
+|| 🎨 前端 | [Vite 8.1 正式上線：Rolldown 路線持續加速 (Vite 8.1 is out!)](./frontend/daily/2026-07-10.md) |
+|| ⚙️ 後端 | [PostgreSQL 轉 ClickHouse：以列式資料庫撐住 2M/day 查詢量 (Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability)](./backend/daily/2026-07-10.md) |
+|| 🤖 AI | [Ideas Have Genomes：科學思想演化與生成基準 (Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation)](./ai/daily/2026-07-10.md) |
 
 ---
 
