@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-|| 🎨 前端 | [Vite 8.1 正式上線：Rolldown 路線持續加速 (Vite 8.1 is out!)](./frontend/daily/2026-07-10.md) |
-|| ⚙️ 後端 | [PostgreSQL 轉 ClickHouse：以列式資料庫撐住 2M/day 查詢量 (Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability)](./backend/daily/2026-07-10.md) |
-|| 🤖 AI | [Ideas Have Genomes：科學思想演化與生成基準 (Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation)](./ai/daily/2026-07-10.md) |
+| 🎨 前端 | [Egui 動畫機制解剖 (The Basic Animation Mechanism in Egui)](./frontend/daily/2026-07-11.md) |
+| ⚙️ 後端 | [Cloudflare 臨時帳號：讓自動化 Worker 先跑再認證 (Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment)](./backend/daily/2026-07-11.md) |
+| 🤖 AI | [Slack 的代理式端到端測試：讓 UI 自動化更抗脆弱 (Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation)](./ai/daily/2026-07-11.md) |
 
 ---
 
