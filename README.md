@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Egui 動畫機制解剖 (The Basic Animation Mechanism in Egui)](./frontend/daily/2026-07-11.md) |
-| ⚙️ 後端 | [Cloudflare 臨時帳號：讓自動化 Worker 先跑再認證 (Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment)](./backend/daily/2026-07-11.md) |
-| 🤖 AI | [Slack 的代理式端到端測試：讓 UI 自動化更抗脆弱 (Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation)](./ai/daily/2026-07-11.md) |
+| 🎨 前端 | [Cloudflare 支持 Vite 的使命 (Cloudflare supports Vite's mission)](./frontend/daily/2026-07-14.md) |
+| ⚙️ 後端 | [Cloudflare 修正 hyper 的 HTTP/1 實作競態條件 (Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation)](./backend/daily/2026-07-14.md) |
+| 🤖 AI | [Meta 的非侵入式腦機介面 Brain2Qwerty 61% 準確率 (Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy)](./ai/daily/2026-07-14.md) |
 
 ---
 
