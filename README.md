@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Egui 動畫機制解剖 (The Basic Animation Mechanism in Egui)](./frontend/daily/2026-07-11.md) |
-| ⚙️ 後端 | [Cloudflare 臨時帳號：讓自動化 Worker 先跑再認證 (Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment)](./backend/daily/2026-07-11.md) |
-| 🤖 AI | [Slack 的代理式端到端測試：讓 UI 自動化更抗脆弱 (Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation)](./ai/daily/2026-07-11.md) |
+| 🎨 前端 | [GeoIcons：422 個可按需打包的地理圖示 (Introducing GeoIcons: 422 tree-shakable geographic icons)](./frontend/daily/2026-07-15.md) |
+| ⚙️ 後端 | [Go + FFmpeg 影片縮圖服務：用 Sprite Sheet 提升預覽效率 (Building a Video Thumbnail Generator Service in Go With FFmpeg and Sprite Sheets)](./backend/daily/2026-07-15.md) |
+| 🤖 AI | [AI Agent 的 ARD 規格：工具與能力的可發現層 (Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents)](./ai/daily/2026-07-15.md) |
 
 ---
 
