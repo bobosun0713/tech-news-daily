@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Cloudflare 支持 Vite 的使命 (Cloudflare supports Vite's mission)](./frontend/daily/2026-07-14.md) |
-| ⚙️ 後端 | [Cloudflare 修正 hyper 的 HTTP/1 實作競態條件 (Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation)](./backend/daily/2026-07-14.md) |
-| 🤖 AI | [Meta 的非侵入式腦機介面 Brain2Qwerty 61% 準確率 (Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy)](./ai/daily/2026-07-14.md) |
+| 🎨 前端 | [GeoIcons：422 個可按需打包的地理圖示 (Introducing GeoIcons: 422 tree-shakable geographic icons)](./frontend/daily/2026-07-15.md) |
+| ⚙️ 後端 | [Go + FFmpeg 影片縮圖服務：用 Sprite Sheet 提升預覽效率 (Building a Video Thumbnail Generator Service in Go With FFmpeg and Sprite Sheets)](./backend/daily/2026-07-15.md) |
+| 🤖 AI | [AI Agent 的 ARD 規格：工具與能力的可發現層 (Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents)](./ai/daily/2026-07-15.md) |
 
 ---
 
