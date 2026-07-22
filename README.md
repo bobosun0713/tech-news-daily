@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [GeoIcons：422 個可按需打包的地理圖示 (Introducing GeoIcons: 422 tree-shakable geographic icons)](./frontend/daily/2026-07-15.md) |
-| ⚙️ 後端 | [Go + FFmpeg 影片縮圖服務：用 Sprite Sheet 提升預覽效率 (Building a Video Thumbnail Generator Service in Go With FFmpeg and Sprite Sheets)](./backend/daily/2026-07-15.md) |
-| 🤖 AI | [AI Agent 的 ARD 規格：工具與能力的可發現層 (Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents)](./ai/daily/2026-07-15.md) |
+| 🎨 前端 | [修正 Next.js App Router 的伺服端與客戶端文字不一致 (Cómo solucionar el error “Text content does not match server-rendered HTML” en Next.js App Router)](./frontend/daily/2026-07-22.md) |
+| ⚙️ 後端 | [API 重試把同一筆款項刷了兩次：你缺的是 idempotency (Your API Retried the Request. Your Customer Got Charged Twice.)](./backend/daily/2026-07-22.md) |
+| 🤖 AI | [Anthropic 解析 Claude 在 Web、Code 與 Cowork 的隔離控制策略 (Anthropic Details How It Contains Claude Across Web, Code, and Cowork)](./ai/daily/2026-07-22.md) |
 
 ---
 
