@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-07-23](./daily/2026-07-23.md) — 讓 React Compiler 直接跑在 Rust：Meta 為更快建置與更緊密工具鏈整合而移植 (Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration)
 - [2026-07-22](./daily/2026-07-22.md) — 修正 Next.js App Router 的伺服端與客戶端文字不一致 (Cómo solucionar el error “Text content does not match server-rendered HTML” en Next.js App Router)
 - [2026-07-15](./daily/2026-07-15.md) — GeoIcons：422 個可按需打包的地理圖示 (Introducing GeoIcons: 422 tree-shakable geographic icons)
 - [2026-07-14](./daily/2026-07-14.md) — Cloudflare 支持 Vite 的使命 (Cloudflare supports Vite's mission)
 - [2026-07-11](./daily/2026-07-11.md) — Egui 動畫機制解剖 (The Basic Animation Mechanism in Egui)
 - [2026-07-10](./daily/2026-07-10.md) — Vite 8.1 正式上線：Rolldown 路線持續加速 (Vite 8.1 is out!)
 - [2026-07-09](./daily/2026-07-09.md) — Vue 樹狀結構效能大提速：不改 UI 也能快 10 倍 (How I made my Vue tree 10x faster without changing the UI)
-- [2026-07-08](./daily/2026-07-08.md) — Vite+ Beta 詮釋：JavaScript 工具鏈的下一步是什麼？ (Vite+ Beta Explained: The Future of JavaScript Tooling?)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,7 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
-- [2026-07 第 1 頁](./archives/2026-07-page-1.md) — 收錄 2026-07-06、2026-07-05、2026-07-04、2026-07-02、2026-07-01
+- [2026-07 第 1 頁](./archives/2026-07-page-1.md) — 收錄 2026-07-08、2026-07-06、2026-07-05、2026-07-04、2026-07-02、2026-07-01
 - [2026-06 第 1 頁](./archives/2026-06-page-1.md) — 收錄 2026-06-30、2026-06-29、2026-06-28、2026-06-24、2026-06-23、2026-06-22、2026-06-20、2026-06-17、2026-06-14、2026-06-02、2026-06-01
 - [2026-05 第 1 頁](./archives/2026-05-page-1.md) — 收錄 2026-05-31、2026-05-30、2026-05-27、2026-05-26、2026-05-25、2026-05-24
 <!-- ARCHIVE_INDEX_END -->
