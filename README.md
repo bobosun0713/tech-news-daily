@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [修正 Next.js App Router 的伺服端與客戶端文字不一致 (Cómo solucionar el error “Text content does not match server-rendered HTML” en Next.js App Router)](./frontend/daily/2026-07-22.md) |
-| ⚙️ 後端 | [API 重試把同一筆款項刷了兩次：你缺的是 idempotency (Your API Retried the Request. Your Customer Got Charged Twice.)](./backend/daily/2026-07-22.md) |
-| 🤖 AI | [Anthropic 解析 Claude 在 Web、Code 與 Cowork 的隔離控制策略 (Anthropic Details How It Contains Claude Across Web, Code, and Cowork)](./ai/daily/2026-07-22.md) |
+| 🎨 前端 | [讓 React Compiler 直接跑在 Rust：Meta 為更快建置與更緊密工具鏈整合而移植 (Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration)](./frontend/daily/2026-07-23.md) |
+| ⚙️ 後端 | [Bull Queue 與 BullMQ 怎麼選：Node.js 背景工作佇列的實戰取捨 (Bull Queue vs BullMQ: Which to Use for Node.js Background Jobs)](./backend/daily/2026-07-23.md) |
+| 🤖 AI | [Claude Code 的安全外掛進入 beta：把多代理漏洞掃描帶進終端機 (Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal)](./ai/daily/2026-07-23.md) |
 
 ---
 
