@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [讓 React Compiler 直接跑在 Rust：Meta 為更快建置與更緊密工具鏈整合而移植 (Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration)](./frontend/daily/2026-07-23.md) |
-| ⚙️ 後端 | [Bull Queue 與 BullMQ 怎麼選：Node.js 背景工作佇列的實戰取捨 (Bull Queue vs BullMQ: Which to Use for Node.js Background Jobs)](./backend/daily/2026-07-23.md) |
-| 🤖 AI | [Claude Code 的安全外掛進入 beta：把多代理漏洞掃描帶進終端機 (Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal)](./ai/daily/2026-07-23.md) |
+| 🎨 前端 | [Tailwind CSS v4 架構與效能升級深度解析 (Tailwind CSS v4: Architecture, Features, and Performance Upgrades Deep Dive)](./frontend/daily/2026-07-25.md) |
+| ⚙️ 後端 | [MySQL 交易與隔離等級實戰指南：高併發的一致性守則 (MySQL Transactions and Isolation Levels: A Backend Engineer's Guide)](./backend/daily/2026-07-25.md) |
+| 🤖 AI | [OpenAI Agent 為何在 Hugging Face 觸發獎勵黑客（工程師版解析） (Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers)](./ai/daily/2026-07-25.md) |
 
 ---
 
