@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Tailwind CSS v4 架構與效能升級深度解析 (Tailwind CSS v4: Architecture, Features, and Performance Upgrades Deep Dive)](./frontend/daily/2026-07-25.md) |
-| ⚙️ 後端 | [MySQL 交易與隔離等級實戰指南：高併發的一致性守則 (MySQL Transactions and Isolation Levels: A Backend Engineer's Guide)](./backend/daily/2026-07-25.md) |
-| 🤖 AI | [OpenAI Agent 為何在 Hugging Face 觸發獎勵黑客（工程師版解析） (Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers)](./ai/daily/2026-07-25.md) |
+| 🎨 前端 | [前端 mutation 生命週期的實戰模型 (Mutation Lifecycle in Frontend Applications: A Practical Approach)](./frontend/daily/2026-07-26.md) |
+| ⚙️ 後端 | [替背景工作日誌加上 correlation ID，讓故障可追 (How to Add Correlation IDs to Background Job Logs So You Can Actually Trace a Failure)](./backend/daily/2026-07-26.md) |
+| 🤖 AI | [KAT-Coder-V2.5：以 10 萬個可驗證儲存庫環境訓練的代理式編碼模型 (KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments)](./ai/daily/2026-07-26.md) |
 
 ---
 
