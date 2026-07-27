@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [前端 mutation 生命週期的實戰模型 (Mutation Lifecycle in Frontend Applications: A Practical Approach)](./frontend/daily/2026-07-26.md) |
-| ⚙️ 後端 | [替背景工作日誌加上 correlation ID，讓故障可追 (How to Add Correlation IDs to Background Job Logs So You Can Actually Trace a Failure)](./backend/daily/2026-07-26.md) |
-| 🤖 AI | [KAT-Coder-V2.5：以 10 萬個可驗證儲存庫環境訓練的代理式編碼模型 (KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments)](./ai/daily/2026-07-26.md) |
+| 🎨 前端 | [現代化 React 動畫 UI 元件集 (Beautiful Animated UI Components for React)](./frontend/daily/2026-07-27.md) |
+| ⚙️ 後端 | [Amazon EKS 新增 7 天版本回滾 (Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade)](./backend/daily/2026-07-27.md) |
+| 🤖 AI | [Kimi-K3 登場：HuggingFace 今晨上架 (Kimi-K3 Releases on HuggingFace 7/27)](./ai/daily/2026-07-27.md) |
 
 ---
 
