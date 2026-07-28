@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [現代化 React 動畫 UI 元件集 (Beautiful Animated UI Components for React)](./frontend/daily/2026-07-27.md) |
-| ⚙️ 後端 | [Amazon EKS 新增 7 天版本回滾 (Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade)](./backend/daily/2026-07-27.md) |
-| 🤖 AI | [Kimi-K3 登場：HuggingFace 今晨上架 (Kimi-K3 Releases on HuggingFace 7/27)](./ai/daily/2026-07-27.md) |
+| 🎨 前端 | [Tailwind CSS v4 遷移指南：2026 年你需要知道的改動 (Tailwind CSS v4 Migration Guide: Everything That Changed in 2026)](./frontend/daily/2026-07-28.md) |
+| ⚙️ 後端 | [GuardDuty 調查 Agent 上線：AWS 把威脅初篩自動化 (AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage)](./backend/daily/2026-07-28.md) |
+| 🤖 AI | [Microsoft AI 發表 MAI-Cyber-1-Flash：5B 啟用參數的資安模型 (Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym)](./ai/daily/2026-07-28.md) |
 
 ---
 
