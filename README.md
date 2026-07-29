@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Tailwind CSS v4 遷移指南：2026 年你需要知道的改動 (Tailwind CSS v4 Migration Guide: Everything That Changed in 2026)](./frontend/daily/2026-07-28.md) |
-| ⚙️ 後端 | [GuardDuty 調查 Agent 上線：AWS 把威脅初篩自動化 (AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage)](./backend/daily/2026-07-28.md) |
-| 🤖 AI | [Microsoft AI 發表 MAI-Cyber-1-Flash：5B 啟用參數的資安模型 (Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym)](./ai/daily/2026-07-28.md) |
+| 🎨 前端 | [React 19 的 useActionState：為什麼只把送出按鈕變成 disabled 還不夠 (React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough)](./frontend/daily/2026-07-29.md) |
+| ⚙️ 後端 | [Cloudflare 內部 DNS 正式可用：把內網命名與服務尋址納入正式支援 (Cloudflare Makes Internal DNS Generally Available)](./backend/daily/2026-07-29.md) |
+| 🤖 AI | [OlmoEarth 平台：把地理空間推論做到行星尺度 (The OlmoEarth Platform: Geospatial inference at planetary scale)](./ai/daily/2026-07-29.md) |
 
 ---
 
