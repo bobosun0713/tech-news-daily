@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-07-30](./daily/2026-07-30.md) — AWS Lambda 自管程式碼儲存：只放大帳號配額，不放寬函式大小 (AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit)
 - [2026-07-29](./daily/2026-07-29.md) — Cloudflare 內部 DNS 正式可用：把內網命名與服務尋址納入正式支援 (Cloudflare Makes Internal DNS Generally Available)
 - [2026-07-28](./daily/2026-07-28.md) — GuardDuty 調查 Agent 上線：AWS 把威脅初篩自動化 (AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage)
 - [2026-07-27](./daily/2026-07-27.md) — Amazon EKS 新增 7 天版本回滾 (Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade)
 - [2026-07-26](./daily/2026-07-26.md) — 替背景工作日誌加上 correlation ID，讓故障可追 (How to Add Correlation IDs to Background Job Logs So You Can Actually Trace a Failure)
 - [2026-07-25](./daily/2026-07-25.md) — MySQL 交易與隔離等級實戰指南：高併發的一致性守則 (MySQL Transactions and Isolation Levels: A Backend Engineer's Guide)
 - [2026-07-23](./daily/2026-07-23.md) — Bull Queue 與 BullMQ 怎麼選：Node.js 背景工作佇列的實戰取捨 (Bull Queue vs BullMQ: Which to Use for Node.js Background Jobs)
-- [2026-07-22](./daily/2026-07-22.md) — API 重試把同一筆款項刷了兩次：你缺的是 idempotency (Your API Retried the Request. Your Customer Got Charged Twice.)
 <!-- DAILY_INDEX_END -->
 
 ---
