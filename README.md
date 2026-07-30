@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React 19 的 useActionState：為什麼只把送出按鈕變成 disabled 還不夠 (React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough)](./frontend/daily/2026-07-29.md) |
-| ⚙️ 後端 | [Cloudflare 內部 DNS 正式可用：把內網命名與服務尋址納入正式支援 (Cloudflare Makes Internal DNS Generally Available)](./backend/daily/2026-07-29.md) |
-| 🤖 AI | [OlmoEarth 平台：把地理空間推論做到行星尺度 (The OlmoEarth Platform: Geospatial inference at planetary scale)](./ai/daily/2026-07-29.md) |
+| 🎨 前端 | [9 個 Next.js 替代方案：2026 年何時真的該換？ (9 Next.js Alternatives in 2026 (And When to Actually Switch))](./frontend/daily/2026-07-30.md) |
+| ⚙️ 後端 | [AWS Lambda 自管程式碼儲存：只放大帳號配額，不放寬函式大小 (AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit)](./backend/daily/2026-07-30.md) |
+| 🤖 AI | [可在終端機統一管理 Claude Code、Codex 與 OpenCode 的 Tmux 工具 (Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode)](./ai/daily/2026-07-30.md) |
 
 ---
 
