@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [9 個 Next.js 替代方案：2026 年何時真的該換？ (9 Next.js Alternatives in 2026 (And When to Actually Switch))](./frontend/daily/2026-07-30.md) |
-| ⚙️ 後端 | [AWS Lambda 自管程式碼儲存：只放大帳號配額，不放寬函式大小 (AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit)](./backend/daily/2026-07-30.md) |
-| 🤖 AI | [可在終端機統一管理 Claude Code、Codex 與 OpenCode 的 Tmux 工具 (Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode)](./ai/daily/2026-07-30.md) |
+| 🎨 前端 | [2026 年 TypeScript `asserts` 與型別判斷：讓型別守衛真正收斂 (TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly)](./frontend/daily/2026-08-04.md) |
+| ⚙️ 後端 | [Microsoft 推出 TypeScript 7.0：原生 Go 編譯器讓建置速度提升 10 倍 (Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds)](./backend/daily/2026-08-04.md) |
+| 🤖 AI | [長路徑代理基準升級：LongHorizon-Harness 讓實際任務執行更可追蹤 (LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks)](./ai/daily/2026-08-04.md) |
 
 ---
 
