@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [2026 年 TypeScript `asserts` 與型別判斷：讓型別守衛真正收斂 (TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly)](./frontend/daily/2026-08-04.md) |
-| ⚙️ 後端 | [Microsoft 推出 TypeScript 7.0：原生 Go 編譯器讓建置速度提升 10 倍 (Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds)](./backend/daily/2026-08-04.md) |
-| 🤖 AI | [長路徑代理基準升級：LongHorizon-Harness 讓實際任務執行更可追蹤 (LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks)](./ai/daily/2026-08-04.md) |
+| 🎨 前端 | [Next.js 16.3.0 發布：補強 RSC、Turbopack 與安全修補 (Next.js v16.3.0)](./frontend/daily/2026-08-05.md) |
+| ⚙️ 後端 | [JioHotstar 揭露串流廣告決策分散式架構：在大規模播放中做即時個人化 (JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale)](./backend/daily/2026-08-05.md) |
+| 🤖 AI | [SkillJack：自我演化代理中的持久技能後門風險 (SkillJack: Persistent Skill Backdoors in Self-Evolving Agents)](./ai/daily/2026-08-05.md) |
 
 ---
 
