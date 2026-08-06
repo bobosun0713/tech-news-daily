@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Next.js 16.3.0 發布：補強 RSC、Turbopack 與安全修補 (Next.js v16.3.0)](./frontend/daily/2026-08-05.md) |
-| ⚙️ 後端 | [JioHotstar 揭露串流廣告決策分散式架構：在大規模播放中做即時個人化 (JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale)](./backend/daily/2026-08-05.md) |
-| 🤖 AI | [SkillJack：自我演化代理中的持久技能後門風險 (SkillJack: Persistent Skill Backdoors in Self-Evolving Agents)](./ai/daily/2026-08-05.md) |
+| 🎨 前端 | [Vite 8.2.1 修補 sharedPlugins、bundled-dev 注入與 CSS 壓縮邊界 (v8.2.1)](./frontend/daily/2026-08-06.md) |
+| ⚙️ 後端 | [CosmosEscape 把 Azure Cosmos DB Gremlin 沙箱逃逸風險攤在檯面上 (Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done)](./backend/daily/2026-08-06.md) |
+| 🤖 AI | [Prime Agent：把 sub-agent 變成持久 IPython kernel 裡的函式呼叫 (Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel)](./ai/daily/2026-08-06.md) |
 
 ---
 
