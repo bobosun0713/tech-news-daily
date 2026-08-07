@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 8.2.1 修補 sharedPlugins、bundled-dev 注入與 CSS 壓縮邊界 (v8.2.1)](./frontend/daily/2026-08-06.md) |
-| ⚙️ 後端 | [CosmosEscape 把 Azure Cosmos DB Gremlin 沙箱逃逸風險攤在檯面上 (Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done)](./backend/daily/2026-08-06.md) |
-| 🤖 AI | [Prime Agent：把 sub-agent 變成持久 IPython kernel 裡的函式呼叫 (Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel)](./ai/daily/2026-08-06.md) |
+| 🎨 前端 | [Next.js 15.5.23 補上 FlightClient traversal guard 路徑防護 (v15.5.23)](./frontend/daily/2026-08-07.md) |
+| ⚙️ 後端 | [Instacart Blueberry：把 AI on-call 助理接進 Slack 事故調查流程 (Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents)](./backend/daily/2026-08-07.md) |
+| 🤖 AI | [Microsoft 開源 code-testing-generator：多語測試代理在模糊需求下明顯勝過 stock Copilot (Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot)](./ai/daily/2026-08-07.md) |
 
 ---
 
