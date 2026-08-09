@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-09](./daily/2026-08-09.md) — AgentOPSD：遞迴自蒸餾的代理式強化學習 (AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning)
 - [2026-08-07](./daily/2026-08-07.md) — Microsoft 開源 code-testing-generator：多語測試代理在模糊需求下明顯勝過 stock Copilot (Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot)
 - [2026-08-06](./daily/2026-08-06.md) — Prime Agent：把 sub-agent 變成持久 IPython kernel 裡的函式呼叫 (Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel)
 - [2026-08-05](./daily/2026-08-05.md) — SkillJack：自我演化代理中的持久技能後門風險 (SkillJack: Persistent Skill Backdoors in Self-Evolving Agents)
