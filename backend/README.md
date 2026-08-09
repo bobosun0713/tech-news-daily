@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-09](./daily/2026-08-09.md) — Cloudflare Precursor 以持續行為分析辨識 bot 與 AI agent (Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis)
 - [2026-08-07](./daily/2026-08-07.md) — Instacart Blueberry：把 AI on-call 助理接進 Slack 事故調查流程 (Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents)
 - [2026-08-06](./daily/2026-08-06.md) — CosmosEscape 把 Azure Cosmos DB Gremlin 沙箱逃逸風險攤在檯面上 (Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done)
 - [2026-08-05](./daily/2026-08-05.md) — JioHotstar 揭露串流廣告決策分散式架構：在大規模播放中做即時個人化 (JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale)
 - [2026-08-04](./daily/2026-08-04.md) — Microsoft 推出 TypeScript 7.0：原生 Go 編譯器讓建置速度提升 10 倍 (Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds)
 - [2026-07-30](./daily/2026-07-30.md) — AWS Lambda 自管程式碼儲存：只放大帳號配額，不放寬函式大小 (AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit)
 - [2026-07-29](./daily/2026-07-29.md) — Cloudflare 內部 DNS 正式可用：把內網命名與服務尋址納入正式支援 (Cloudflare Makes Internal DNS Generally Available)
-- [2026-07-28](./daily/2026-07-28.md) — GuardDuty 調查 Agent 上線：AWS 把威脅初篩自動化 (AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage)
 <!-- DAILY_INDEX_END -->
 
 ---
