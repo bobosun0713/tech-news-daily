@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 開發者必懂的 React Server Components／Client Components 心智模型轉換 (Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs)](./frontend/daily/2026-08-09.md) |
-| ⚙️ 後端 | [Cloudflare Precursor 以持續行為分析辨識 bot 與 AI agent (Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis)](./backend/daily/2026-08-09.md) |
-| 🤖 AI | [AgentOPSD：遞迴自蒸餾的代理式強化學習 (AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning)](./ai/daily/2026-08-09.md) |
+| 🎨 前端 | [先量測再調校：Next.js 效能優化不要靠猜 (How to speed up a Next.js application without guessing)](./frontend/daily/2026-08-10.md) |
+| ⚙️ 後端 | [Canva 用 S3 架構做 session 撤銷：撐住百萬級登入狀態 (Canva Shares S3 Based Architecture for Session Revocation Across Hundreds of Millions of Sessions)](./backend/daily/2026-08-10.md) |
+| 🤖 AI | [不只是擴大環境數量：更有效的多模態 agent 訓練分布設計 (Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning)](./ai/daily/2026-08-10.md) |
 
 ---
 
