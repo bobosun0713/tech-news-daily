@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-11](./daily/2026-08-11.md) — React 括號誤用引爆 10 萬次 API 請求：別讓小錯誤變成大災難 (The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database)
 - [2026-08-10](./daily/2026-08-10.md) — 先量測再調校：Next.js 效能優化不要靠猜 (How to speed up a Next.js application without guessing)
 - [2026-08-09](./daily/2026-08-09.md) — Vite 開發者必懂的 React Server Components／Client Components 心智模型轉換 (Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs)
 - [2026-08-07](./daily/2026-08-07.md) — Next.js 15.5.23 補上 FlightClient traversal guard 路徑防護 (v15.5.23)
@@ -23,6 +24,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-07-30](./daily/2026-07-30.md) — 9 個 Next.js 替代方案：2026 年何時真的該換？ (9 Next.js Alternatives in 2026 (And When to Actually Switch))
 - [2026-07-29](./daily/2026-07-29.md) — React 19 的 useActionState：為什麼只把送出按鈕變成 disabled 還不夠 (React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough)
 - [2026-07 第 1 頁](./archives/2026-07-page-1.md) — 收錄 2026-07-28、2026-07-27、2026-07-26、2026-07-25、2026-07-23、2026-07-22、2026-07-15、2026-07-14、2026-07-11、2026-07-10、2026-07-09、2026-07-08、2026-07-06、2026-07-05、2026-07-04、2026-07-02、2026-07-01
 - [2026-06 第 1 頁](./archives/2026-06-page-1.md) — 收錄 2026-06-30、2026-06-29、2026-06-28、2026-06-24、2026-06-23、2026-06-22、2026-06-20、2026-06-17、2026-06-14、2026-06-02、2026-06-01

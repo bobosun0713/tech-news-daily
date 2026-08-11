@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [先量測再調校：Next.js 效能優化不要靠猜 (How to speed up a Next.js application without guessing)](./frontend/daily/2026-08-10.md) |
-| ⚙️ 後端 | [Canva 用 S3 架構做 session 撤銷：撐住百萬級登入狀態 (Canva Shares S3 Based Architecture for Session Revocation Across Hundreds of Millions of Sessions)](./backend/daily/2026-08-10.md) |
-| 🤖 AI | [不只是擴大環境數量：更有效的多模態 agent 訓練分布設計 (Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning)](./ai/daily/2026-08-10.md) |
+| 🎨 前端 | [React 括號誤用引爆 10 萬次 API 請求：別讓小錯誤變成大災難 (The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database)](./frontend/daily/2026-08-11.md) |
+| ⚙️ 後端 | [Netflix 如何擴展即時服務拓撲圖 (How Netflix Scaled Its Real-Time Service Map)](./backend/daily/2026-08-11.md) |
+| 🤖 AI | [SWE-Bench ProMax：更大規模、多語系的程式重構評測 (SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring)](./ai/daily/2026-08-11.md) |
 
 ---
 
