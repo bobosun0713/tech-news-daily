@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-12](./daily/2026-08-12.md) — Netflix 改用雲原生排程系統 Kueue 取代自建方案 (Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution)
 - [2026-08-11](./daily/2026-08-11.md) — Netflix 如何擴展即時服務拓撲圖 (How Netflix Scaled Its Real-Time Service Map)
 - [2026-08-10](./daily/2026-08-10.md) — Canva 用 S3 架構做 session 撤銷：撐住百萬級登入狀態 (Canva Shares S3 Based Architecture for Session Revocation Across Hundreds of Millions of Sessions)
 - [2026-08-09](./daily/2026-08-09.md) — Cloudflare Precursor 以持續行為分析辨識 bot 與 AI agent (Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis)
@@ -16,7 +17,6 @@
 - [2026-08-06](./daily/2026-08-06.md) — CosmosEscape 把 Azure Cosmos DB Gremlin 沙箱逃逸風險攤在檯面上 (Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done)
 - [2026-08-05](./daily/2026-08-05.md) — JioHotstar 揭露串流廣告決策分散式架構：在大規模播放中做即時個人化 (JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale)
 - [2026-08-04](./daily/2026-08-04.md) — Microsoft 推出 TypeScript 7.0：原生 Go 編譯器讓建置速度提升 10 倍 (Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds)
-- [2026-07-30](./daily/2026-07-30.md) — AWS Lambda 自管程式碼儲存：只放大帳號配額，不放寬函式大小 (AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit)
 <!-- DAILY_INDEX_END -->
 
 ---
