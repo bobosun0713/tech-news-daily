@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-12](./daily/2026-08-12.md) — Vite 開發者轉向 Server Components／Client Components 的心智模型 (Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs)
 - [2026-08-11](./daily/2026-08-11.md) — React 括號誤用引爆 10 萬次 API 請求：別讓小錯誤變成大災難 (The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database)
 - [2026-08-10](./daily/2026-08-10.md) — 先量測再調校：Next.js 效能優化不要靠猜 (How to speed up a Next.js application without guessing)
 - [2026-08-09](./daily/2026-08-09.md) — Vite 開發者必懂的 React Server Components／Client Components 心智模型轉換 (Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs)
@@ -16,7 +17,6 @@
 - [2026-08-06](./daily/2026-08-06.md) — Vite 8.2.1 修補 sharedPlugins、bundled-dev 注入與 CSS 壓縮邊界 (v8.2.1)
 - [2026-08-05](./daily/2026-08-05.md) — Next.js 16.3.0 發布：補強 RSC、Turbopack 與安全修補 (Next.js v16.3.0)
 - [2026-08-04](./daily/2026-08-04.md) — 2026 年 TypeScript `asserts` 與型別判斷：讓型別守衛真正收斂 (TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly)
-- [2026-07-30](./daily/2026-07-30.md) — 9 個 Next.js 替代方案：2026 年何時真的該換？ (9 Next.js Alternatives in 2026 (And When to Actually Switch))
 <!-- DAILY_INDEX_END -->
 
 ---
