@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-12](./daily/2026-08-12.md) — 人本代理 AI：具身代理的新範式 (ComBodied Agents: a New Paradigm of Human-Centric Agentic AI)
 - [2026-08-11](./daily/2026-08-11.md) — SWE-Bench ProMax：更大規模、多語系的程式重構評測 (SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring)
 - [2026-08-10](./daily/2026-08-10.md) — 不只是擴大環境數量：更有效的多模態 agent 訓練分布設計 (Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning)
 - [2026-08-09](./daily/2026-08-09.md) — AgentOPSD：遞迴自蒸餾的代理式強化學習 (AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning)
@@ -16,7 +17,6 @@
 - [2026-08-06](./daily/2026-08-06.md) — Prime Agent：把 sub-agent 變成持久 IPython kernel 裡的函式呼叫 (Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel)
 - [2026-08-05](./daily/2026-08-05.md) — SkillJack：自我演化代理中的持久技能後門風險 (SkillJack: Persistent Skill Backdoors in Self-Evolving Agents)
 - [2026-08-04](./daily/2026-08-04.md) — 長路徑代理基準升級：LongHorizon-Harness 讓實際任務執行更可追蹤 (LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks)
-- [2026-07-30](./daily/2026-07-30.md) — 可在終端機統一管理 Claude Code、Codex 與 OpenCode 的 Tmux 工具 (Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode)
 <!-- DAILY_INDEX_END -->
 
 ---
