@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React 括號誤用引爆 10 萬次 API 請求：別讓小錯誤變成大災難 (The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database)](./frontend/daily/2026-08-11.md) |
-| ⚙️ 後端 | [Netflix 如何擴展即時服務拓撲圖 (How Netflix Scaled Its Real-Time Service Map)](./backend/daily/2026-08-11.md) |
-| 🤖 AI | [SWE-Bench ProMax：更大規模、多語系的程式重構評測 (SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring)](./ai/daily/2026-08-11.md) |
+| 🎨 前端 | [Vite 開發者轉向 Server Components／Client Components 的心智模型 (Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs)](./frontend/daily/2026-08-12.md) |
+| ⚙️ 後端 | [Netflix 改用雲原生排程系統 Kueue 取代自建方案 (Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution)](./backend/daily/2026-08-12.md) |
+| 🤖 AI | [人本代理 AI：具身代理的新範式 (ComBodied Agents: a New Paradigm of Human-Centric Agentic AI)](./ai/daily/2026-08-12.md) |
 
 ---
 
