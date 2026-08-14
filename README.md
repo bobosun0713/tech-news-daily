@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 開發者轉向 Server Components／Client Components 的心智模型 (Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs)](./frontend/daily/2026-08-12.md) |
-| ⚙️ 後端 | [Netflix 改用雲原生排程系統 Kueue 取代自建方案 (Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution)](./backend/daily/2026-08-12.md) |
-| 🤖 AI | [人本代理 AI：具身代理的新範式 (ComBodied Agents: a New Paradigm of Human-Centric Agentic AI)](./ai/daily/2026-08-12.md) |
+| 🎨 前端 | [打造真正完成的 Next.js 16 後台模板：Ordexa (Ordexa: a Next.js 16 admin dashboard template I actually finished)](./frontend/daily/2026-08-14.md) |
+| ⚙️ 後端 | [如何在不開伺服器的情況下接收 webhook (How to Set Up a Webhook Receiver Without Running a Server)](./backend/daily/2026-08-14.md) |
+| 🤖 AI | [GLM-5.3：前沿編碼與新興資安能力再往前推 (GLM-5.3: Frontier coding with emergent cyber capabilities)](./ai/daily/2026-08-14.md) |
 
 ---
 
@@ -28,17 +28,17 @@
 
 ```text
 📦 tech-news-daily
- ┣ 📂 frontend/
- ┃ ┣ 📂 archives/                 # 前端歷史歸檔 (存放超過 7 天的內容)
- ┃ ┣ 📂 daily/                    # 前端每日日誌 (YYYY-MM-DD.md)
- ┃ ┗ 📜 README.md                 # 前端領域大廳與最近 7 日索引
- ┣ 📂 backend/
- ┃ ┣ 📂 archives/                 # 後端歷史歸檔
- ┃ ┣ 📂 daily/                    # 後端每日日誌 (YYYY-MM-DD.md)
- ┃ ┗ 📜 README.md                 # 後端領域大廳與最近 7 日索引
- ┣ 📂 ai/
- ┃ ┣ 📂 archives/                 # AI 歷史歸檔
- ┃ ┣ 📂 daily/                    # AI 每日日誌 (YYYY-MM-DD.md)
- ┃ ┗ 📜 README.md                 # AI 領域大廳與最近 7 日索引
- ┗ 📜 README.md                   # 專案總大廳與今日各領域頭條
+┣ 📂 frontend/
+┃ ┣ 📂 archives/                 # 前端歷史歸檔 (存放超過 7 天的內容)
+┃ ┣ 📂 daily/                    # 前端每日日誌 (YYYY-MM-DD.md)
+┃ ┗ 📜 README.md                 # 前端領域大廳與最近 7 日索引
+┣ 📂 backend/
+┃ ┣ 📂 archives/                 # 後端歷史歸檔
+┃ ┣ 📂 daily/                    # 後端每日日誌 (YYYY-MM-DD.md)
+┃ ┗ 📜 README.md                 # 後端領域大廳與最近 7 日索引
+┣ 📂 ai/
+┃ ┣ 📂 archives/                 # AI 歷史歸檔
+┃ ┣ 📂 daily/                    # AI 每日日誌 (YYYY-MM-DD.md)
+┃ ┗ 📜 README.md                 # AI 領域大廳與最近 7 日索引
+┗ 📜 README.md                   # 專案總大廳與今日各領域頭條
 ```
