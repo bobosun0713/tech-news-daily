@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [打造真正完成的 Next.js 16 後台模板：Ordexa (Ordexa: a Next.js 16 admin dashboard template I actually finished)](./frontend/daily/2026-08-14.md) |
-| ⚙️ 後端 | [如何在不開伺服器的情況下接收 webhook (How to Set Up a Webhook Receiver Without Running a Server)](./backend/daily/2026-08-14.md) |
-| 🤖 AI | [GLM-5.3：前沿編碼與新興資安能力再往前推 (GLM-5.3: Frontier coding with emergent cyber capabilities)](./ai/daily/2026-08-14.md) |
+| 🎨 前端 | [打造跨 Web 與 React Native 的零執行期設計系統 (Building a Cross-Platform Design System for Web (Next.js) and Mobile (React Native) with Zero Runtime Overhead)](./frontend/daily/2026-08-15.md) |
+| ⚙️ 後端 | [快取到底該放哪裡？先分清責任邊界 (Where Should the Cache Live?)](./backend/daily/2026-08-15.md) |
+| 🤖 AI | [什麼時候該放棄？訓練 LLM 停止無效推理 (Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning)](./ai/daily/2026-08-15.md) |
 
 ---
 
