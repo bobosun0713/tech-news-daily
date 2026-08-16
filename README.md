@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [打造跨 Web 與 React Native 的零執行期設計系統 (Building a Cross-Platform Design System for Web (Next.js) and Mobile (React Native) with Zero Runtime Overhead)](./frontend/daily/2026-08-15.md) |
-| ⚙️ 後端 | [快取到底該放哪裡？先分清責任邊界 (Where Should the Cache Live?)](./backend/daily/2026-08-15.md) |
-| 🤖 AI | [什麼時候該放棄？訓練 LLM 停止無效推理 (Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning)](./ai/daily/2026-08-15.md) |
+| 🎨 前端 | [TanStack DB 實戰：讓前端資料同步與本地開發更順手 (Tanstack DB in action)](./frontend/daily/2026-08-16.md) |
+| ⚙️ 後端 | [AWS 開源 Dogwood：用 Cedar 管制 agent 工具呼叫序列 (AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls)](./backend/daily/2026-08-16.md) |
+| 🤖 AI | [多代理系統正在遇到什麼問題？Anthropic 的觀察整理 (Patterns and problems in emerging multi-agent systems)](./ai/daily/2026-08-16.md) |
 
 ---
 
