@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [漸進式遷移：把 Vite i18n 應用搬到 Next.js 但不弄壞一切 (Migrating a Vite i18n App to Next.js Without Breaking Everything)](./frontend/daily/2026-08-17.md) |
-| ⚙️ 後端 | [Cloudflare 把 CI Pipeline 變成 TypeScript 工作流 (Cloudflare Turns CI Pipelines into TypeScript Workflows)](./backend/daily/2026-08-17.md) |
-| 🤖 AI | [真的能擋住 AI 生成影片攻擊嗎？危機事件偵測的系統化評估 (Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination)](./ai/daily/2026-08-17.md) |
+| 🎨 前端 | [從建構 claude-chat-react 學到的前端架構取捨 (How I built @grodev/claude-chat-react — architecture notes)](./frontend/daily/2026-08-18.md) |
+| ⚙️ 後端 | [GitHub 將堆疊式 Pull Request 帶進公開預覽 (GitHub Brings Stacked Pull Requests to Public Preview)](./backend/daily/2026-08-18.md) |
+| 🤖 AI | [可視世界評估再進一步：HarnessEval-W 讓 agent 自動評測視覺世界 (HarnessEval-W: Agentifying the Evaluation of Visual Worlds)](./ai/daily/2026-08-18.md) |
 
 ---
 
