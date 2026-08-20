@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-20](./daily/2026-08-20.md) — 更貼近實務的 React 圖示庫：Switch Icons v0.2.0 (Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need)
 - [2026-08-17](./daily/2026-08-17.md) — 漸進式遷移：把 Vite i18n 應用搬到 Next.js 但不弄壞一切 (Migrating a Vite i18n App to Next.js Without Breaking Everything)
 - [2026-08-16](./daily/2026-08-16.md) — TanStack DB 實戰：讓前端資料同步與本地開發更順手 (Tanstack DB in action)
 - [2026-08-15](./daily/2026-08-15.md) — 打造跨 Web 與 React Native 的零執行期設計系統 (Building a Cross-Platform Design System for Web (Next.js) and Mobile (React Native) with Zero Runtime Overhead)
 - [2026-08-14](./daily/2026-08-14.md) — 打造真正完成的 Next.js 16 後台模板：Ordexa (Ordexa: a Next.js 16 admin dashboard template I actually finished)
 - [2026-08-12](./daily/2026-08-12.md) — Vite 開發者轉向 Server Components／Client Components 的心智模型 (Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs)
 - [2026-08-11](./daily/2026-08-11.md) — React 括號誤用引爆 10 萬次 API 請求：別讓小錯誤變成大災難 (The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database)
-- [2026-08-10](./daily/2026-08-10.md) — 先量測再調校：Next.js 效能優化不要靠猜 (How to speed up a Next.js application without guessing)
 <!-- DAILY_INDEX_END -->
 
 ---
