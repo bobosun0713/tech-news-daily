@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-20](./daily/2026-08-20.md) — Zetta ζ：閉環具身 Harness，讓實體智慧可自我演化 (Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence)
 - [2026-08-17](./daily/2026-08-17.md) — 真的能擋住 AI 生成影片攻擊嗎？危機事件偵測的系統化評估 (Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination)
 - [2026-08-16](./daily/2026-08-16.md) — 多代理系統正在遇到什麼問題？Anthropic 的觀察整理 (Patterns and problems in emerging multi-agent systems)
 - [2026-08-15](./daily/2026-08-15.md) — 什麼時候該放棄？訓練 LLM 停止無效推理 (Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning)
 - [2026-08-14](./daily/2026-08-14.md) — GLM-5.3：前沿編碼與新興資安能力再往前推 (GLM-5.3: Frontier coding with emergent cyber capabilities)
 - [2026-08-12](./daily/2026-08-12.md) — 人本代理 AI：具身代理的新範式 (ComBodied Agents: a New Paradigm of Human-Centric Agentic AI)
 - [2026-08-11](./daily/2026-08-11.md) — SWE-Bench ProMax：更大規模、多語系的程式重構評測 (SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring)
-- [2026-08-10](./daily/2026-08-10.md) — 不只是擴大環境數量：更有效的多模態 agent 訓練分布設計 (Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning)
 <!-- DAILY_INDEX_END -->
 
 ---
