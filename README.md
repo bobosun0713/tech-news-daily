@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [漸進式遷移：把 Vite i18n 應用搬到 Next.js 但不弄壞一切 (Migrating a Vite i18n App to Next.js Without Breaking Everything)](./frontend/daily/2026-08-17.md) |
-| ⚙️ 後端 | [Cloudflare 把 CI Pipeline 變成 TypeScript 工作流 (Cloudflare Turns CI Pipelines into TypeScript Workflows)](./backend/daily/2026-08-17.md) |
-| 🤖 AI | [真的能擋住 AI 生成影片攻擊嗎？危機事件偵測的系統化評估 (Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination)](./ai/daily/2026-08-17.md) |
+| 🎨 前端 | [更貼近實務的 React 圖示庫：Switch Icons v0.2.0 (Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need)](./frontend/daily/2026-08-20.md) |
+| ⚙️ 後端 | [Harper 5.2：反對多系統堆疊的單一 runtime 取向 (Harper Argues Against the Multi-System Stack and Releases 5.2)](./backend/daily/2026-08-20.md) |
+| 🤖 AI | [Zetta ζ：閉環具身 Harness，讓實體智慧可自我演化 (Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence)](./ai/daily/2026-08-20.md) |
 
 ---
 
