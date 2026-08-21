@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [更貼近實務的 React 圖示庫：Switch Icons v0.2.0 (Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need)](./frontend/daily/2026-08-20.md) |
-| ⚙️ 後端 | [Harper 5.2：反對多系統堆疊的單一 runtime 取向 (Harper Argues Against the Multi-System Stack and Releases 5.2)](./backend/daily/2026-08-20.md) |
-| 🤖 AI | [Zetta ζ：閉環具身 Harness，讓實體智慧可自我演化 (Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence)](./ai/daily/2026-08-20.md) |
+| 🎨 前端 | [Next.js App Router 動態公告槽位：避免 hydration 失配 (Zero Hydration Mismatch: Architecting dynamic announcement slots in Next.js App Router)](./frontend/daily/2026-08-21.md) |
+| ⚙️ 後端 | [API 速率限制該把 counter 放在 Redis、Postgres 還是 Edge？ (Rate Limiting Your Own API: Should the Counter Live in Redis, Postgres, or at the Edge?)](./backend/daily/2026-08-21.md) |
+| 🤖 AI | [EnvHarness：讓靜態世界變成 agent 訓練場 (EnvHarness: Awakening Static Worlds for Agent Learning)](./ai/daily/2026-08-21.md) |
 
 ---
 
