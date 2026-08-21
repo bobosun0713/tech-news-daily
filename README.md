@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [從建構 claude-chat-react 學到的前端架構取捨 (How I built @grodev/claude-chat-react — architecture notes)](./frontend/daily/2026-08-18.md) |
-| ⚙️ 後端 | [GitHub 將堆疊式 Pull Request 帶進公開預覽 (GitHub Brings Stacked Pull Requests to Public Preview)](./backend/daily/2026-08-18.md) |
-| 🤖 AI | [可視世界評估再進一步：HarnessEval-W 讓 agent 自動評測視覺世界 (HarnessEval-W: Agentifying the Evaluation of Visual Worlds)](./ai/daily/2026-08-18.md) |
+| 🎨 前端 | [更貼近實務的 React 圖示庫：Switch Icons v0.2.0 (Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need)](./frontend/daily/2026-08-20.md) |
+| ⚙️ 後端 | [Harper 5.2：反對多系統堆疊的單一 runtime 取向 (Harper Argues Against the Multi-System Stack and Releases 5.2)](./backend/daily/2026-08-20.md) |
+| 🤖 AI | [Zetta ζ：閉環具身 Harness，讓實體智慧可自我演化 (Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence)](./ai/daily/2026-08-20.md) |
 
 ---
 

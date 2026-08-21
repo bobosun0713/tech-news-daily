@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-20](./daily/2026-08-20.md) — Harper 5.2：反對多系統堆疊的單一 runtime 取向 (Harper Argues Against the Multi-System Stack and Releases 5.2)
 - [2026-08-18](./daily/2026-08-18.md) — GitHub 將堆疊式 Pull Request 帶進公開預覽 (GitHub Brings Stacked Pull Requests to Public Preview)
 - [2026-08-17](./daily/2026-08-17.md) — Cloudflare 把 CI Pipeline 變成 TypeScript 工作流 (Cloudflare Turns CI Pipelines into TypeScript Workflows)
 - [2026-08-16](./daily/2026-08-16.md) — AWS 開源 Dogwood：用 Cedar 管制 agent 工具呼叫序列 (AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls)

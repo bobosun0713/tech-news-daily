@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-20](./daily/2026-08-20.md) — Zetta ζ：閉環具身 Harness，讓實體智慧可自我演化 (Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence)
 - [2026-08-18](./daily/2026-08-18.md) — 可視世界評估再進一步：HarnessEval-W 讓 agent 自動評測視覺世界 (HarnessEval-W: Agentifying the Evaluation of Visual Worlds)
 - [2026-08-17](./daily/2026-08-17.md) — 真的能擋住 AI 生成影片攻擊嗎？危機事件偵測的系統化評估 (Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination)
 - [2026-08-16](./daily/2026-08-16.md) — 多代理系統正在遇到什麼問題？Anthropic 的觀察整理 (Patterns and problems in emerging multi-agent systems)

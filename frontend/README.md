@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-20](./daily/2026-08-20.md) — 更貼近實務的 React 圖示庫：Switch Icons v0.2.0 (Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need)
 - [2026-08-18](./daily/2026-08-18.md) — 從建構 claude-chat-react 學到的前端架構取捨 (How I built @grodev/claude-chat-react — architecture notes)
 - [2026-08-17](./daily/2026-08-17.md) — 漸進式遷移：把 Vite i18n 應用搬到 Next.js 但不弄壞一切 (Migrating a Vite i18n App to Next.js Without Breaking Everything)
 - [2026-08-16](./daily/2026-08-16.md) — TanStack DB 實戰：讓前端資料同步與本地開發更順手 (Tanstack DB in action)
