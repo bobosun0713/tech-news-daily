@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-21](./daily/2026-08-21.md) — API 速率限制該把 counter 放在 Redis、Postgres 還是 Edge？ (Rate Limiting Your Own API: Should the Counter Live in Redis, Postgres, or at the Edge?)
 - [2026-08-20](./daily/2026-08-20.md) — Harper 5.2：反對多系統堆疊的單一 runtime 取向 (Harper Argues Against the Multi-System Stack and Releases 5.2)
 - [2026-08-18](./daily/2026-08-18.md) — GitHub 將堆疊式 Pull Request 帶進公開預覽 (GitHub Brings Stacked Pull Requests to Public Preview)
 - [2026-08-17](./daily/2026-08-17.md) — Cloudflare 把 CI Pipeline 變成 TypeScript 工作流 (Cloudflare Turns CI Pipelines into TypeScript Workflows)
