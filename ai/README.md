@@ -10,6 +10,7 @@
 
 <!-- DAILY_INDEX_START -->
 - [2026-08-20](./daily/2026-08-20.md) — Zetta ζ：閉環具身 Harness，讓實體智慧可自我演化 (Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence)
+- [2026-08-18](./daily/2026-08-18.md) — 可視世界評估再進一步：HarnessEval-W 讓 agent 自動評測視覺世界 (HarnessEval-W: Agentifying the Evaluation of Visual Worlds)
 - [2026-08-17](./daily/2026-08-17.md) — 真的能擋住 AI 生成影片攻擊嗎？危機事件偵測的系統化評估 (Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination)
 - [2026-08-16](./daily/2026-08-16.md) — 多代理系統正在遇到什麼問題？Anthropic 的觀察整理 (Patterns and problems in emerging multi-agent systems)
 - [2026-08-15](./daily/2026-08-15.md) — 什麼時候該放棄？訓練 LLM 停止無效推理 (Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning)
@@ -23,6 +24,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-10](./daily/2026-08-10.md) — 不只是擴大環境數量：更有效的多模態 agent 訓練分布設計 (Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning)
 - [2026-08-09](./daily/2026-08-09.md) — AgentOPSD：遞迴自蒸餾的代理式強化學習 (AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning)
 - [2026-08 第 1 頁](./archives/2026-08-page-1.md) — 收錄 2026-08-09、2026-08-07、2026-08-06、2026-08-05、2026-08-04
 - [2026-07-30](./daily/2026-07-30.md) — 可在終端機統一管理 Claude Code、Codex 與 OpenCode 的 Tmux 工具 (Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode)
