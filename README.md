@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Next.js App Router 動態公告槽位：避免 hydration 失配 (Zero Hydration Mismatch: Architecting dynamic announcement slots in Next.js App Router)](./frontend/daily/2026-08-21.md) |
-| ⚙️ 後端 | [API 速率限制該把 counter 放在 Redis、Postgres 還是 Edge？ (Rate Limiting Your Own API: Should the Counter Live in Redis, Postgres, or at the Edge?)](./backend/daily/2026-08-21.md) |
-| 🤖 AI | [EnvHarness：讓靜態世界變成 agent 訓練場 (EnvHarness: Awakening Static Worlds for Agent Learning)](./ai/daily/2026-08-21.md) |
+| 🎨 前端 | [60fps 的圖形型 React 應用：把渲染卡頓壓到最低 (Keeping a graphics-heavy React app at a smooth 60fps)](./frontend/daily/2026-08-22.md) |
+| ⚙️ 後端 | [不超賣的 API 端點：200 張票與百萬點擊的守門設計 (Millions of Clicks, 200 Tickets: Building an Endpoint That Cannot Oversell)](./backend/daily/2026-08-22.md) |
+| 🤖 AI | [4DAnyone：從單目影片生成可重建的 4D 人物 (4DAnyone: Create Anyone in 4D from a Casual Monocular Video)](./ai/daily/2026-08-22.md) |
 
 ---
 
