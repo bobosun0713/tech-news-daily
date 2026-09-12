@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Next.js 16 的 Turbopack 變快 2.5 倍，但 bundler 只佔整體建置的 4% (Next.js 16's Turbopack is 2.5x faster, but the bundler is only 4% of your build)](./frontend/daily/2026-09-11.md) |
-| ⚙️ 後端 | [FastAPI：寄信任務的清楚契約 (FastAPI: contratos claros para tareas de email)](./backend/daily/2026-09-11.md) |
-| 🤖 AI | [NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)](./ai/daily/2026-09-11.md) |
+| 🎨 前端 | [Next.js 14：Server Components 與 React 的覺醒 (Next.js 14: Server Components and the React Awakens)](./frontend/daily/2026-09-12.md) |
+| ⚙️ 後端 | [FastAPI DI 引擎內幕：簽名反射、執行圖與 async exit stack (Under the Hood of FastAPI’s DI Engine: Signature Reflection, Execution Graphs, and Async Exit Stacks)](./backend/daily/2026-09-12.md) |
+| 🤖 AI | [NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)](./ai/daily/2026-09-12.md) |
 
 ---
 

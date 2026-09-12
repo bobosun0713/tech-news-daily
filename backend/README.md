@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-12](./daily/2026-09-12.md) — FastAPI DI 引擎內幕：簽名反射、執行圖與 async exit stack (Under the Hood of FastAPI’s DI Engine: Signature Reflection, Execution Graphs, and Async Exit Stacks)
 - [2026-09-11](./daily/2026-09-11.md) — FastAPI：寄信任務的清楚契約 (FastAPI: contratos claros para tareas de email)
 - [2026-09-09](./daily/2026-09-09.md) — HashiCorp Packer 1.16 原生支援 SLSA provenance，機器映像供應鏈更可驗證 (HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images)
 - [2026-09-08](./daily/2026-09-08.md) — HashiCorp Packer 1.16 內建 SLSA 溯源驗證，強化機器映像供應鏈 (HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images)
 - [2026-09-07](./daily/2026-09-07.md) — 從 AI Agent Demo 走到生產：自動化測試與評估 (Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation)
 - [2026-09-06](./daily/2026-09-06.md) — Google Mantis：用 agent 化漏洞掃描框架降低誤報 (Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives)
 - [2026-09-05](./daily/2026-09-05.md) — Figma 如何用 AI agents 做資安 (How Figma Uses AI Agents for Security)
-- [2026-09-04](./daily/2026-09-04.md) — FreeCORE：延續 TrueNAS 的虛擬化、Jails 與 OpenZFS 整合 (FreeCORE: TrueNAS Fork Maintaining Deeply Integrated Virtualization, Jails, and OpenZFS on FreeBSD)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-09-04](./archives/2026-09-page-1.md) — FreeCORE：延續 TrueNAS 的虛擬化、Jails 與 OpenZFS 整合 (FreeCORE: TrueNAS Fork Maintaining Deeply Integrated Virtualization, Jails, and OpenZFS on FreeBSD)
 - [2026-09-03](./archives/2026-09-page-1.md) — pnpm 12 以 Rust 重寫：加速安裝，同時維持 pnpm 11 相容 (pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows)
 - [2026-09-02](./archives/2026-09-page-1.md) — Cloudflare 新增可選 OAuth scopes：讓使用者能拒絕部分權限 (Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline)
 - [2026-09-01](./archives/2026-09-page-1.md) — 以索引模型打造超高速 Rate Limiter (The Index Awakens: Building a Blazing‑Fast Rate Limiter)

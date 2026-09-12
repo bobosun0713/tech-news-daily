@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-12](./daily/2026-09-12.md) — NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)
 - [2026-09-11](./daily/2026-09-11.md) — NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)
 - [2026-09-09](./daily/2026-09-09.md) — NeoHorse-1：透過 agentic post-training 與 routing harness 追求可遞迴自我改進 (NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness)
 - [2026-09-08](./daily/2026-09-08.md) — 離散擴散讓 LLM 生成加速又不失真 (Unlocking Lossless Speedups in LLMs via Discrete Diffusion)
 - [2026-09-07](./daily/2026-09-07.md) — 博弈論式多代理協同反思 (Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems)
 - [2026-09-06](./daily/2026-09-06.md) — Compile by Training：把自然語言規格編譯成本地神經函式 (Compile by Training: Turning Natural-Language Specifications into Local Neural Functions)
 - [2026-09-05](./daily/2026-09-05.md) — Terminal-Universe：把 agent 軌跡重建成可執行終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)
-- [2026-09-04](./daily/2026-09-04.md) — RealSWE：以真實需求導向的組合式評測檢驗 coding agents (RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-09-04](./archives/2026-09-page-1.md) — RealSWE：以真實需求導向的組合式評測檢驗 coding agents (RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests)
 - [2026-09-03](./archives/2026-09-page-1.md) — Repo-To-Skill：把 GitHub 倉庫萃取成可重用的 AI 技能 (Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills)
 - [2026-09-02](./archives/2026-09-page-1.md) — Harness-of-Harness：多日自治軟體開發的持續改進框架 (Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement)
 - [2026-09-01](./archives/2026-09-page-1.md) — Qwen3.8-Next 架構設計：效率、評估與訓練穩定性 (On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability)
