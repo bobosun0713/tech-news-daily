@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [用 HTML + Tailwind CDN 做 5 個輕量著陸頁模板 (I built 5 lightweight landing page templates using only HTML & Tailwind CDN)](./frontend/daily/2026-09-24.md) |
-| ⚙️ 後端 | [結構化日誌：為什麼 print statement 只能撐一個服務 (Structured logging: why print statements do not scale past one service)](./backend/daily/2026-09-24.md) |
-| 🤖 AI | [Just-In-Time Memory：為 LLM Agent 動態整理任務記憶 (Just-In-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents)](./ai/daily/2026-09-24.md) |
+| 🎨 前端 | [把 RAG 引用直接標在 PDF 上：React bbox 高亮如何讓答案可追溯 (React PDF bbox Highlighting: Show RAG Citations on the Page)](./frontend/daily/2026-09-25.md) |
+| ⚙️ 後端 | [無狀態 MCP：AWS 伺服器部署不再綁 session affinity (Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments)](./backend/daily/2026-09-25.md) |
+| 🤖 AI | [世界模型的物件恆存訓練：讓模型記住消失後的物件 (Training Object Permanence in World Models)](./ai/daily/2026-09-25.md) |
 
 ---
 
