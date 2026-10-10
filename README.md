@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [免費落地頁模板盤點：9 個仍在維護的來源 (Free Landing Page Templates in 2026: 9 Sources I Checked)](./frontend/daily/2026-10-09.md) |
-| ⚙️ 後端 | [Cloudflare 修補容器跨租戶殘留資料外洩 (Cloudflare Fixes Cross-Tenant Data Exposure in Containers)](./backend/daily/2026-10-09.md) |
-| 🤖 AI | [TokenRouter：高效率的 token-level LLM routing 服務系統 (TokenRouter: Efficient Serving System for Token-Level LLM Routing)](./ai/daily/2026-10-09.md) |
+| 🎨 前端 | [高流量頁面重構：React/Vite/Tailwind 的遷移筆記 (Rewriting a High-Traffic Page Without Breaking It: Notes from the Listing Details Migration)](./frontend/daily/2026-10-10.md) |
+| ⚙️ 後端 | [Kafka 會話排序管線：用一致性雜湊與 watermark 保住順序 (Building a Session-Ordered Kafka Pipeline in Go)](./backend/daily/2026-10-10.md) |
+| 🤖 AI | [AgentGarten：可進化 agent 的 code worlds (AgentGarten: Code Worlds for Evolving Agents)](./ai/daily/2026-10-10.md) |
 
 ---
 
