@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-31](./daily/2026-10-31.md) — 新加坡 183 家在地服務網站掃描：DMARC 與詢問表單常見缺口 (Singapore local service businesses: where website enquiries leak (2026 scan))
 - [2026-10-29](./daily/2026-10-29.md) — Hono 部署 Prisma Postgres／Compute：實測流程與連線陷阱 (Hono on Prisma Postgres and Compute, What Worked and What Broke)
 - [2026-10-28](./daily/2026-10-28.md) — Supabase 將停止自動授權新資料表：舊專案也須明確 GRANT (Supabase's 30 Oct change: the next table your AI builder creates needs a GRANT. Here's the 2-minute check.)
 - [2026-10-23](./daily/2026-10-23.md) — PHP 公布另一條未修補 RCE：CVE-2026-115560 (Informational advisory: Session upload progress)
 - [2026-10-22](./daily/2026-10-22.md) — 快取很容易，失效才是系統故障的起點：實務指南 (Caching Is Easy. Cache Invalidation Is Where Systems Break: A Practical Guide)
 - [2026-10-21](./daily/2026-10-21.md) — PingCAP TiDB Cloud 資料外洩：攻擊者聲稱持續複製控制平面資料 (The PingCAP TiDB Cloud Leaks)
 - [2026-10-20](./daily/2026-10-20.md) — Google Cloud 倫敦區域電力事故影響銀行與多項雲端服務 (Google cloud outage takes down HSBC, Revolut, Bank of Scotland, Llyods, Equifax, more)
-- [2026-10-19](./daily/2026-10-19.md) — KVM guest-to-host 漏洞 CVE-2026-99999：畸形 IPv4 封包可破壞 VM 隔離 (Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-19](./archives/2026-10-page-1.md) — KVM guest-to-host 漏洞 CVE-2026-99999：畸形 IPv4 封包可破壞 VM 隔離 (Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking)
 - [2026-10-16](./archives/2026-10-page-1.md) — PostgreSQL 19 平行 autovacuum 實測：worker 增多，總耗時幾乎不變 (PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged)
 - [2026-10-14](./archives/2026-10-page-1.md) — PgBouncer 1.26.1 修補 SCRAM 認證繞過與拒絕服務漏洞 (PgBouncer 1.26.1)
 - [2026-10-13](./daily/2026-10-13.md) — AWS Lambda Web Functions：直接部署標準 HTTP 伺服器 (Announcing AWS Lambda Web Functions)

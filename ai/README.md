@@ -10,21 +10,21 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-31](./daily/2026-10-31.md) — 掃描 2,056 份 n8n 範本：172 份呼叫已下線模型或 API (I scanned 2,056 public n8n templates: 172 of them call an OpenAI or Anthropic model/API that is already shut down)
 - [2026-10-29](./daily/2026-10-29.md) — TAO：依工具返回時機聯合排程 LLM Agent 服務 (TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving)
 - [2026-10-28](./daily/2026-10-28.md) — Agent 記憶的隱形成本：不少系統不如直接檢索原始歷史 (Memory Tax: Dissecting the Net Value of Agent Memory)
 - [2026-10-27](./daily/2026-10-27.md) — Trajectory2Gym：以決策依據與組合覆蓋合成工具互動 (Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents)
 - [2026-10-23](./daily/2026-10-23.md) — MiniMax M3.1 Flash 公開權重：428B MoE、每 token 啟用 23B (M3.1 Flash weights are now open)
 - [2026-10-22](./daily/2026-10-22.md) — 代理快取工程：直接管理 KV 狀態而不重算對話歷史 (Cache Engineering for Agents)
 - [2026-10-21](./daily/2026-10-21.md) — FocusGUI：讓多模態 GUI 代理聚焦當下所需訊號 (Focused Omni-Modal GUI Agents)
-- [2026-10-20](./daily/2026-10-20.md) — DeepInfer：DeepSeek 開源 V4.1-Flash 推理框架 (DeepSeek just open-sourced its inference engine)
 <!-- DAILY_INDEX_END -->
-
 ---
 
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-20](./archives/2026-10-page-1.md) — DeepInfer：DeepSeek 開源 V4.1-Flash 推理框架 (DeepSeek just open-sourced its inference engine)
 - [2026-10-19](./archives/2026-10-page-1.md) — MOSS-Image：強化中英文長文字與版面控制的開放 5B 文生圖系統 (MOSS-Image Technical Report)
 - [2026-10-17](./archives/2026-10-page-1.md) — DeepSeek V4.1-Flash-1017 改善基準並開放 Search／Fetch API (DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API)
 - [2026-10-16](./archives/2026-10-page-1.md) — FDE-Gym：評測代理能否完成真實客戶交付 (FDE-Gym: The Last Mile of AI Delivery)
