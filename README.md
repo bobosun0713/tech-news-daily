@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)](./frontend/daily/2026-10-23.md) |
-| ⚙️ 後端 | [新加坡 183 家在地服務網站掃描：DMARC 與詢問表單常見缺口 (Singapore local service businesses: where website enquiries leak (2026 scan))](./backend/daily/2026-10-31.md) |
-| 🤖 AI | [掃描 2,056 份 n8n 範本：172 份呼叫已下線模型或 API (I scanned 2,056 public n8n templates: 172 of them call an OpenAI or Anthropic model/API that is already shut down)](./ai/daily/2026-10-31.md) |
+| ⚙️ 後端 | [File Mover Express：AWS 開源 S3 大型檔案傳輸工具 (File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers)](./backend/daily/2026-11-01.md) |
+| 🤖 AI | [商湯開源 SenseNova Loop-9B-Preview，宣稱媲美 27B 參數規模 (商汤开源 SenseNova Loop-9B-Preview，宣称媲美 27B 参数大小模型)](./ai/daily/2026-11-01.md) |
 
 ---
 
