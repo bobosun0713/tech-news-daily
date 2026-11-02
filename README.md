@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)](./frontend/daily/2026-10-23.md) |
-| ⚙️ 後端 | [File Mover Express：AWS 開源 S3 大型檔案傳輸工具 (File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers)](./backend/daily/2026-11-01.md) |
-| 🤖 AI | [商湯開源 SenseNova Loop-9B-Preview，宣稱媲美 27B 參數規模 (商汤开源 SenseNova Loop-9B-Preview，宣称媲美 27B 参数大小模型)](./ai/daily/2026-11-01.md) |
+| ⚙️ 後端 | [AbortSignal 會取消 Node.js 資料庫查詢嗎？四種驅動實測 (Does AbortSignal Cancel a Node.js Database Query? 4 Drivers Tested)](./backend/daily/2026-11-02.md) |
+| 🤖 AI | [邁向 AGI 的擴展，是否取決於 System-1 讓 System-2 執行什麼？ (Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?)](./ai/daily/2026-11-02.md) |
 
 ---
 
