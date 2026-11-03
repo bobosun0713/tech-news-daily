@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)](./frontend/daily/2026-10-23.md) |
-| ⚙️ 後端 | [AbortSignal 會取消 Node.js 資料庫查詢嗎？四種驅動實測 (Does AbortSignal Cancel a Node.js Database Query? 4 Drivers Tested)](./backend/daily/2026-11-02.md) |
-| 🤖 AI | [邁向 AGI 的擴展，是否取決於 System-1 讓 System-2 執行什麼？ (Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?)](./ai/daily/2026-11-02.md) |
+| ⚙️ 後端 | [Bolt 訂閱上線前：Stripe 正式環境切換檢查清單 (Before Bolt subscriptions go live, check the Stripe production cutover)](./backend/daily/2026-11-03.md) |
+| 🤖 AI | [超越 Harness：為 AI Agent 建立 Canvas (Beyond the Harness: Canvas for AI Agents)](./ai/daily/2026-11-03.md) |
 
 ---
 
