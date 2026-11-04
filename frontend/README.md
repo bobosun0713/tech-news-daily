@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-04](./daily/2026-11-04.md) — Ant Design 6.7.0：元件 API 與無障礙支援擴充 (6.7.0)
 - [2026-10-23](./daily/2026-10-23.md) — React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)
 - [2026-10-22](./daily/2026-10-22.md) — 共用表單元件漏接欄位提示，造成讀屏器無法取得說明 (Four form components hold every form in our app, and writing this post found the one bug in them)
 - [2026-10-20](./daily/2026-10-20.md) — create-vite 9.3.1：修正 TypeScript 版本與 TanStack 範本 (create-vite@9.3.1)
 - [2026-10-19](./daily/2026-10-19.md) — React Native 0.88：事件派送改用網頁標準，並支援可變字型與 iOS SceneDelegate (React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes)
 - [2026-10-18](./daily/2026-10-18.md) — TanStack Start 對決 Next.js：同一應用的效能實測 (TanStack Start vs Next.js in 2026: Same App, Real Benchmarks)
 - [2026-10-16](./daily/2026-10-16.md) — 用單一 CLI 與設定檔為 Vite+ 加入瀏覽器測試 (One CLI, one config file: adding browser tests to a Vite+ project)
-- [2026-10-14](./daily/2026-10-14.md) — TanStack Start 1.0 穩定版登陸 Appwrite Sites (TanStack Start is stable, and it runs on Appwrite Sites)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-14](./archives/2026-10-page-1.md) — TanStack Start 1.0 穩定版登陸 Appwrite Sites (TanStack Start is stable, and it runs on Appwrite Sites)
 - [2026-10-13](./archives/2026-10-page-1.md) — Mutative 2.0：加速不可變狀態更新並修正 patches (Announcing Mutative 2.0 - Faster Updates and Safer Patches)
 - [2026-10-12](./daily/2026-10-12.md) — 前端漸進遷移策略：Strangler Fig、抽象分支與垂直切片 (Strangler Fig, Branch by Abstraction, Vertical Slices: Choosing a Frontend Migration Strategy)
 - [2026-10-11](./archives/2026-10-page-1.md) — Vite 8.1 上線：bundled dev mode 與 chunk import map 一起補齊 (Vite 8.1 is out!)
