@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)](./frontend/daily/2026-10-23.md) |
-| ⚙️ 後端 | [Bolt 訂閱上線前：Stripe 正式環境切換檢查清單 (Before Bolt subscriptions go live, check the Stripe production cutover)](./backend/daily/2026-11-03.md) |
-| 🤖 AI | [超越 Harness：為 AI Agent 建立 Canvas (Beyond the Harness: Canvas for AI Agents)](./ai/daily/2026-11-03.md) |
+| 🎨 前端 | [Ant Design 6.7.0：元件 API 與無障礙支援擴充 (6.7.0)](./frontend/daily/2026-11-04.md) |
+| ⚙️ 後端 | [OpenAI Node.js SDK 7.50.0：Responses 快取與服務層級設定 (v7.50.0)](./backend/daily/2026-11-04.md) |
+| 🤖 AI | [Route Anything：跨領域模型與策略路由研究 (Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems)](./ai/daily/2026-11-04.md) |
 
 ---
 
