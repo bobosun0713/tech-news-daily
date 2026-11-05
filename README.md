@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Ant Design 6.7.0：元件 API 與無障礙支援擴充 (6.7.0)](./frontend/daily/2026-11-04.md) |
-| ⚙️ 後端 | [OpenAI Node.js SDK 7.50.0：Responses 快取與服務層級設定 (v7.50.0)](./backend/daily/2026-11-04.md) |
-| 🤖 AI | [Route Anything：跨領域模型與策略路由研究 (Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems)](./ai/daily/2026-11-04.md) |
+| 🎨 前端 | [Vite 8.3.6：修正解析與建置問題，並改善效能 (v8.3.6)](./frontend/daily/2026-11-05.md) |
+| ⚙️ 後端 | [OpenSSH 10.6p2 緊急緩解 musl Linux 密碼驗證繞過漏洞 (Portable OpenSSH 10.6p2)](./backend/daily/2026-11-05.md) |
+| 🤖 AI | [FrontierPhysics：以 56 項端到端任務評估 AI 物理研究代理 (FrontierPhysics: Evaluating Agents for End-to-End Physics Research)](./ai/daily/2026-11-05.md) |
 
 ---
 
