@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-06](./daily/2026-11-06.md) — VFlash：以閃電原語解碼加速精準視覺規劃 (VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding)
 - [2026-11-05](./daily/2026-11-05.md) — FrontierPhysics：以 56 項端到端任務評估 AI 物理研究代理 (FrontierPhysics: Evaluating Agents for End-to-End Physics Research)
 - [2026-11-04](./daily/2026-11-04.md) — Route Anything：跨領域模型與策略路由研究 (Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems)
 - [2026-11-03](./daily/2026-11-03.md) — 超越 Harness：為 AI Agent 建立 Canvas (Beyond the Harness: Canvas for AI Agents)
 - [2026-11-02](./daily/2026-11-02.md) — 邁向 AGI 的擴展，是否取決於 System-1 讓 System-2 執行什麼？ (Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?)
 - [2026-11-01](./daily/2026-11-01.md) — 商湯開源 SenseNova Loop-9B-Preview，宣稱媲美 27B 參數規模 (商汤开源 SenseNova Loop-9B-Preview，宣称媲美 27B 参数大小模型)
 - [2026-10-31](./daily/2026-10-31.md) — 掃描 2,056 份 n8n 範本：172 份呼叫已下線模型或 API (I scanned 2,056 public n8n templates: 172 of them call an OpenAI or Anthropic model/API that is already shut down)
-- [2026-10-29](./daily/2026-10-29.md) — TAO：依工具返回時機聯合排程 LLM Agent 服務 (TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving)
 <!-- DAILY_INDEX_END -->
 ---
 
@@ -24,6 +24,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-29](./archives/2026-10-page-1.md) — TAO：依工具返回時機聯合排程 LLM Agent 服務 (TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving)
 - [2026-10-28](./archives/2026-10-page-1.md) — Agent 記憶的隱形成本：不少系統不如直接檢索原始歷史 (Memory Tax: Dissecting the Net Value of Agent Memory)
 - [2026-10-27](./archives/2026-10-page-1.md) — Trajectory2Gym：以決策依據與組合覆蓋合成工具互動 (Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents)
 - [2026-10-23](./archives/2026-10-page-1.md) — MiniMax M3.1 Flash 公開權重：428B MoE、每 token 啟用 23B (M3.1 Flash weights are now open)

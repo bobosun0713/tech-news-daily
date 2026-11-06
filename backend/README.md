@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-06](./daily/2026-11-06.md) — GitLab 19.5：MCP 工具與外部 AI 代理納入治理 (GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform)
 - [2026-11-05](./daily/2026-11-05.md) — OpenSSH 10.6p2 緊急緩解 musl Linux 密碼驗證繞過漏洞 (Portable OpenSSH 10.6p2)
 - [2026-11-04](./daily/2026-11-04.md) — OpenAI Node.js SDK 7.50.0：Responses 快取與服務層級設定 (v7.50.0)
 - [2026-11-03](./daily/2026-11-03.md) — Bolt 訂閱上線前：Stripe 正式環境切換檢查清單 (Before Bolt subscriptions go live, check the Stripe production cutover)
 - [2026-11-02](./daily/2026-11-02.md) — AbortSignal 會取消 Node.js 資料庫查詢嗎？四種驅動實測 (Does AbortSignal Cancel a Node.js Database Query? 4 Drivers Tested)
 - [2026-11-01](./daily/2026-11-01.md) — File Mover Express：AWS 開源 S3 大型檔案傳輸工具 (File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers)
 - [2026-10-31](./daily/2026-10-31.md) — 新加坡 183 家在地服務網站掃描：DMARC 與詢問表單常見缺口 (Singapore local service businesses: where website enquiries leak (2026 scan))
-- [2026-10-29](./daily/2026-10-29.md) — Hono 部署 Prisma Postgres／Compute：實測流程與連線陷阱 (Hono on Prisma Postgres and Compute, What Worked and What Broke)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-29](./archives/2026-10-page-1.md) — Hono 部署 Prisma Postgres／Compute：實測流程與連線陷阱 (Hono on Prisma Postgres and Compute, What Worked and What Broke)
 - [2026-10-28](./archives/2026-10-page-1.md) — Supabase 將停止自動授權新資料表：舊專案也須明確 GRANT (Supabase's 30 Oct change: the next table your AI builder creates needs a GRANT. Here's the 2-minute check.)
 - [2026-10-23](./archives/2026-10-page-1.md) — PHP 公布另一條未修補 RCE：CVE-2026-115560 (Informational advisory: Session upload progress)
 - [2026-10-22](./archives/2026-10-page-1.md) — 快取很容易，失效才是系統故障的起點：實務指南 (Caching Is Easy. Cache Invalidation Is Where Systems Break: A Practical Guide)

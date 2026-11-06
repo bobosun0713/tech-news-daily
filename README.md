@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [Vite 8.3.6：修正解析與建置問題，並改善效能 (v8.3.6)](./frontend/daily/2026-11-05.md) |
-| ⚙️ 後端 | [OpenSSH 10.6p2 緊急緩解 musl Linux 密碼驗證繞過漏洞 (Portable OpenSSH 10.6p2)](./backend/daily/2026-11-05.md) |
-| 🤖 AI | [FrontierPhysics：以 56 項端到端任務評估 AI 物理研究代理 (FrontierPhysics: Evaluating Agents for End-to-End Physics Research)](./ai/daily/2026-11-05.md) |
+| ⚙️ 後端 | [GitLab 19.5：MCP 工具與外部 AI 代理納入治理 (GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform)](./backend/daily/2026-11-06.md) |
+| 🤖 AI | [VFlash：以閃電原語解碼加速精準視覺規劃 (VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding)](./ai/daily/2026-11-06.md) |
 
 ---
 
