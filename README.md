@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [Vite 8.3.6：修正解析與建置問題，並改善效能 (v8.3.6)](./frontend/daily/2026-11-05.md) |
-| ⚙️ 後端 | [GitLab 19.5：MCP 工具與外部 AI 代理納入治理 (GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform)](./backend/daily/2026-11-06.md) |
-| 🤖 AI | [VFlash：以閃電原語解碼加速精準視覺規劃 (VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding)](./ai/daily/2026-11-06.md) |
+| ⚙️ 後端 | [MongoDB 遷移至 SQL：把資料庫切換開關放在契約邊界 (Put the Mongo-to-SQL toggle at the contract, not inside the shared package)](./backend/daily/2026-11-07.md) |
+| 🤖 AI | [INT4 蒸餾模型的梯度衝突：用單片量測定位 teacher drift (Diagnosing teacher drift in an INT4 CPU student)](./ai/daily/2026-11-07.md) |
 
 ---
 
