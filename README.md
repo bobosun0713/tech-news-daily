@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 8.3.6：修正解析與建置問題，並改善效能 (v8.3.6)](./frontend/daily/2026-11-05.md) |
-| ⚙️ 後端 | [MongoDB 遷移至 SQL：把資料庫切換開關放在契約邊界 (Put the Mongo-to-SQL toggle at the contract, not inside the shared package)](./backend/daily/2026-11-07.md) |
-| 🤖 AI | [INT4 蒸餾模型的梯度衝突：用單片量測定位 teacher drift (Diagnosing teacher drift in an INT4 CPU student)](./ai/daily/2026-11-07.md) |
+| 🎨 前端 | [Cloudflare 啟動 Vite 生態系基金，首輪撥款 301,300 美元 (Launching the Vite Ecosystem Fund)](./frontend/daily/2026-11-09.md) |
+| ⚙️ 後端 | [Tokio 推出 Topcoat：內建完整配備的 Rust 全端框架 (Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework)](./backend/daily/2026-11-09.md) |
+| 🤖 AI | [Reason Machines 開源 Aspen：為 AI 代理打造的 Git 伺服器 (Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents)](./ai/daily/2026-11-09.md) |
 
 ---
 
