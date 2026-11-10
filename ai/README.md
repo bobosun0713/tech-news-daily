@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-10](./daily/2026-11-10.md) — Meta 發布 Muse Ember：為高量代理工作打造的 1M 上下文模型 (Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work)
 - [2026-11-09](./daily/2026-11-09.md) — Reason Machines 開源 Aspen：為 AI 代理打造的 Git 伺服器 (Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents)
 - [2026-11-07](./daily/2026-11-07.md) — INT4 蒸餾模型的梯度衝突：用單片量測定位 teacher drift (Diagnosing teacher drift in an INT4 CPU student)
 - [2026-11-06](./daily/2026-11-06.md) — VFlash：以閃電原語解碼加速精準視覺規劃 (VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding)
 - [2026-11-05](./daily/2026-11-05.md) — FrontierPhysics：以 56 項端到端任務評估 AI 物理研究代理 (FrontierPhysics: Evaluating Agents for End-to-End Physics Research)
 - [2026-11-04](./daily/2026-11-04.md) — Route Anything：跨領域模型與策略路由研究 (Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems)
 - [2026-11-03](./daily/2026-11-03.md) — 超越 Harness：為 AI Agent 建立 Canvas (Beyond the Harness: Canvas for AI Agents)
-- [2026-11-02](./daily/2026-11-02.md) — 邁向 AGI 的擴展，是否取決於 System-1 讓 System-2 執行什麼？ (Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?)
 <!-- DAILY_INDEX_END -->
 ---
 
@@ -24,6 +24,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-11-02](./archives/2026-11-page-1.md) — 邁向 AGI 的擴展，是否取決於 System-1 讓 System-2 執行什麼？ (Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?)
 - [2026-11-01](./archives/2026-11-page-1.md) — 商湯開源 SenseNova Loop-9B-Preview，宣稱媲美 27B 參數規模 (商汤开源 SenseNova Loop-9B-Preview，宣称媲美 27B 参数大小模型)
 - [2026-10-31](./archives/2026-11-page-1.md) — 掃描 2,056 份 n8n 範本：172 份呼叫已下線模型或 API (I scanned 2,056 public n8n templates: 172 of them call an OpenAI or Anthropic model/API that is already shut down)
 - [2026-10-29](./archives/2026-10-page-1.md) — TAO：依工具返回時機聯合排程 LLM Agent 服務 (TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving)

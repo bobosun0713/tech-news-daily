@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Cloudflare 啟動 Vite 生態系基金，首輪撥款 301,300 美元 (Launching the Vite Ecosystem Fund)](./frontend/daily/2026-11-09.md) |
-| ⚙️ 後端 | [Tokio 推出 Topcoat：內建完整配備的 Rust 全端框架 (Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework)](./backend/daily/2026-11-09.md) |
-| 🤖 AI | [Reason Machines 開源 Aspen：為 AI 代理打造的 Git 伺服器 (Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents)](./ai/daily/2026-11-09.md) |
+| 🎨 前端 | [AI Studio 匯出的應用可能夾帶 Gemini 金鑰，部署前檢查 dist/ 中的 AIza (Your AI Studio app export ships your Gemini key. Check dist/ for AIza)](./frontend/daily/2026-11-10.md) |
+| ⚙️ 後端 | [Effect 4.0 發布：無相依套件重寫，套件體積縮小 5 倍並提供長期支援 (Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support)](./backend/daily/2026-11-10.md) |
+| 🤖 AI | [Meta 發布 Muse Ember：為高量代理工作打造的 1M 上下文模型 (Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work)](./ai/daily/2026-11-10.md) |
 
 ---
 
