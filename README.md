@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [AI Studio 匯出的應用可能夾帶 Gemini 金鑰，部署前檢查 dist/ 中的 AIza (Your AI Studio app export ships your Gemini key. Check dist/ for AIza)](./frontend/daily/2026-11-10.md) |
-| ⚙️ 後端 | [Effect 4.0 發布：無相依套件重寫，套件體積縮小 5 倍並提供長期支援 (Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support)](./backend/daily/2026-11-10.md) |
-| 🤖 AI | [Meta 發布 Muse Ember：為高量代理工作打造的 1M 上下文模型 (Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work)](./ai/daily/2026-11-10.md) |
+| 🎨 前端 | [Vite 建置遷移讓型別檢查中斷四個月 (We moved our portal build to Vite and stopped type checking for four months)](./frontend/daily/2026-11-11.md) |
+| ⚙️ 後端 | [CoreWeave 推出託管 PostgreSQL，將資料庫部署於 AI 運算叢集 (CoreWeave Database Launches So AI Teams Can Build, Run, and Scale Production Applications on One Platform)](./backend/daily/2026-11-11.md) |
+| 🤖 AI | [Qwen4-Max Preview 開放體驗：支援百萬 token 與多模態工具呼叫 (qwen4-max-preview)](./ai/daily/2026-11-11.md) |
 
 ---
 

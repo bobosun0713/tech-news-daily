@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-11](./daily/2026-11-11.md) — Vite 建置遷移讓型別檢查中斷四個月 (We moved our portal build to Vite and stopped type checking for four months)
 - [2026-11-10](./daily/2026-11-10.md) — AI Studio 匯出的應用可能夾帶 Gemini 金鑰，部署前檢查 dist/ 中的 AIza (Your AI Studio app export ships your Gemini key. Check dist/ for AIza)
 - [2026-11-09](./daily/2026-11-09.md) — Cloudflare 啟動 Vite 生態系基金，首輪撥款 301,300 美元 (Launching the Vite Ecosystem Fund)
 - [2026-11-05](./daily/2026-11-05.md) — Vite 8.3.6：修正解析與建置問題，並改善效能 (v8.3.6)
 - [2026-11-04](./daily/2026-11-04.md) — Ant Design 6.7.0：元件 API 與無障礙支援擴充 (6.7.0)
 - [2026-10-23](./daily/2026-10-23.md) — React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)
 - [2026-10-22](./daily/2026-10-22.md) — 共用表單元件漏接欄位提示，造成讀屏器無法取得說明 (Four form components hold every form in our app, and writing this post found the one bug in them)
-- [2026-10-20](./daily/2026-10-20.md) — create-vite 9.3.1：修正 TypeScript 版本與 TanStack 範本 (create-vite@9.3.1)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-20](./archives/2026-10-page-1.md) — create-vite 9.3.1：修正 TypeScript 版本與 TanStack 範本 (create-vite@9.3.1)
 - [2026-10-19](./archives/2026-10-page-1.md) — React Native 0.88：事件派送改用網頁標準，並支援可變字型與 iOS SceneDelegate (React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes)
 - [2026-10-18](./archives/2026-10-page-1.md) — TanStack Start 對決 Next.js：同一應用的效能實測 (TanStack Start vs Next.js in 2026: Same App, Real Benchmarks)
 - [2026-10-16](./archives/2026-10-page-1.md) — 用單一 CLI 與設定檔為 Vite+ 加入瀏覽器測試 (One CLI, one config file: adding browser tests to a Vite+ project)
