@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-12](./daily/2026-11-12.md) — Evolving Infra：面向代理工作負載、可規模化的自適應 LLM 推論服務 (Evolving Infra: Agent-Adaptive LLM Serving at Scale)
 - [2026-11-11](./daily/2026-11-11.md) — Qwen4-Max Preview 開放體驗：支援百萬 token 與多模態工具呼叫 (qwen4-max-preview)
 - [2026-11-10](./daily/2026-11-10.md) — Meta 發布 Muse Ember：為高量代理工作打造的 1M 上下文模型 (Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work)
 - [2026-11-09](./daily/2026-11-09.md) — Reason Machines 開源 Aspen：為 AI 代理打造的 Git 伺服器 (Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents)
 - [2026-11-07](./daily/2026-11-07.md) — INT4 蒸餾模型的梯度衝突：用單片量測定位 teacher drift (Diagnosing teacher drift in an INT4 CPU student)
 - [2026-11-06](./daily/2026-11-06.md) — VFlash：以閃電原語解碼加速精準視覺規劃 (VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding)
 - [2026-11-05](./daily/2026-11-05.md) — FrontierPhysics：以 56 項端到端任務評估 AI 物理研究代理 (FrontierPhysics: Evaluating Agents for End-to-End Physics Research)
-- [2026-11-04](./daily/2026-11-04.md) — Route Anything：跨領域模型與策略路由研究 (Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems)
 <!-- DAILY_INDEX_END -->
 ---
 
@@ -24,6 +24,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-11-04](./archives/2026-11-page-1.md) — Route Anything：跨領域模型與策略路由研究 (Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems)
 - [2026-11-03](./archives/2026-11-page-1.md) — 超越 Harness：為 AI Agent 建立 Canvas (Beyond the Harness: Canvas for AI Agents)
 - [2026-11-02](./archives/2026-11-page-1.md) — 邁向 AGI 的擴展，是否取決於 System-1 讓 System-2 執行什麼？ (Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?)
 - [2026-11-01](./archives/2026-11-page-1.md) — 商湯開源 SenseNova Loop-9B-Preview，宣稱媲美 27B 參數規模 (商汤开源 SenseNova Loop-9B-Preview，宣称媲美 27B 参数大小模型)

@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 建置遷移讓型別檢查中斷四個月 (We moved our portal build to Vite and stopped type checking for four months)](./frontend/daily/2026-11-11.md) |
-| ⚙️ 後端 | [CoreWeave 推出託管 PostgreSQL，將資料庫部署於 AI 運算叢集 (CoreWeave Database Launches So AI Teams Can Build, Run, and Scale Production Applications on One Platform)](./backend/daily/2026-11-11.md) |
-| 🤖 AI | [Qwen4-Max Preview 開放體驗：支援百萬 token 與多模態工具呼叫 (qwen4-max-preview)](./ai/daily/2026-11-11.md) |
+| 🎨 前端 | [我做了一個工具，檢查 Vue Vapor 模式會破壞你應用程式的哪些部分 (I built a tool that tells you what Vue Vapor mode will break in your app)](./frontend/daily/2026-11-12.md) |
+| ⚙️ 後端 | [LinkedIn 以自研 GitOps 引擎取代 Argo CD，用於 Kubernetes 部署 (LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments)](./backend/daily/2026-11-12.md) |
+| 🤖 AI | [Evolving Infra：面向代理工作負載、可規模化的自適應 LLM 推論服務 (Evolving Infra: Agent-Adaptive LLM Serving at Scale)](./ai/daily/2026-11-12.md) |
 
 ---
 
