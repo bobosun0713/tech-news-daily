@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [我做了一個工具，檢查 Vue Vapor 模式會破壞你應用程式的哪些部分 (I built a tool that tells you what Vue Vapor mode will break in your app)](./frontend/daily/2026-11-12.md) |
-| ⚙️ 後端 | [LinkedIn 以自研 GitOps 引擎取代 Argo CD，用於 Kubernetes 部署 (LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments)](./backend/daily/2026-11-12.md) |
-| 🤖 AI | [Evolving Infra：面向代理工作負載、可規模化的自適應 LLM 推論服務 (Evolving Infra: Agent-Adaptive LLM Serving at Scale)](./ai/daily/2026-11-12.md) |
+| 🎨 前端 | [以 VITE_ 或 NEXT_PUBLIC_ 前綴的 Telegram token 會出現在前端 bundle 中 (Telegram token in VITE_ or NEXT_PUBLIC_? It's in your bundle)](./frontend/daily/2026-11-13.md) |
+| ⚙️ 後端 | [Netflix 將營運資料轉為知識圖譜，用於 AI 驅動的可觀測性 (Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability)](./backend/daily/2026-11-13.md) |
+| 🤖 AI | [Google 開源 AQuA：診斷正式環境 AI 代理失敗的環境品質代理 (Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures)](./ai/daily/2026-11-13.md) |
 
 ---
 
