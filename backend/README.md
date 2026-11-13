@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-13](./daily/2026-11-13.md) — Netflix 將營運資料轉為知識圖譜，用於 AI 驅動的可觀測性 (Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability)
 - [2026-11-12](./daily/2026-11-12.md) — LinkedIn 以自研 GitOps 引擎取代 Argo CD，用於 Kubernetes 部署 (LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments)
 - [2026-11-11](./daily/2026-11-11.md) — CoreWeave 推出託管 PostgreSQL，將資料庫部署於 AI 運算叢集 (CoreWeave Database Launches So AI Teams Can Build, Run, and Scale Production Applications on One Platform)
 - [2026-11-10](./daily/2026-11-10.md) — Effect 4.0 發布：無相依套件重寫，套件體積縮小 5 倍並提供長期支援 (Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support)
 - [2026-11-09](./daily/2026-11-09.md) — Tokio 推出 Topcoat：內建完整配備的 Rust 全端框架 (Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework)
 - [2026-11-07](./daily/2026-11-07.md) — MongoDB 遷移至 SQL：把資料庫切換開關放在契約邊界 (Put the Mongo-to-SQL toggle at the contract, not inside the shared package)
 - [2026-11-06](./daily/2026-11-06.md) — GitLab 19.5：MCP 工具與外部 AI 代理納入治理 (GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform)
-- [2026-11-05](./daily/2026-11-05.md) — OpenSSH 10.6p2 緊急緩解 musl Linux 密碼驗證繞過漏洞 (Portable OpenSSH 10.6p2)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-11-05](./archives/2026-11-page-1.md) — OpenSSH 10.6p2 緊急緩解 musl Linux 密碼驗證繞過漏洞 (Portable OpenSSH 10.6p2)
 - [2026-11-04](./archives/2026-11-page-1.md) — OpenAI Node.js SDK 7.50.0：Responses 快取與服務層級設定 (v7.50.0)
 - [2026-11-03](./archives/2026-11-page-1.md) — Bolt 訂閱上線前：Stripe 正式環境切換檢查清單 (Before Bolt subscriptions go live, check the Stripe production cutover)
 - [2026-11-02](./archives/2026-11-page-1.md) — AbortSignal 會取消 Node.js 資料庫查詢嗎？四種驅動實測 (Does AbortSignal Cancel a Node.js Database Query? 4 Drivers Tested)
