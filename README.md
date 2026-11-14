@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [以 VITE_ 或 NEXT_PUBLIC_ 前綴的 Telegram token 會出現在前端 bundle 中 (Telegram token in VITE_ or NEXT_PUBLIC_? It's in your bundle)](./frontend/daily/2026-11-13.md) |
-| ⚙️ 後端 | [Netflix 將營運資料轉為知識圖譜，用於 AI 驅動的可觀測性 (Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability)](./backend/daily/2026-11-13.md) |
-| 🤖 AI | [Google 開源 AQuA：診斷正式環境 AI 代理失敗的環境品質代理 (Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures)](./ai/daily/2026-11-13.md) |
+| 🎨 前端 | [逐一按 Tab 巡檢 5,495 個停靠點，373 個元素沒有焦點外框 (I pressed Tab through all 5,495 stops on our site: the order is perfect and 373 of them show no focus ring)](./frontend/daily/2026-11-14.md) |
+| ⚙️ 後端 | [Node.js 將 debounce、throttle 與 PKCS#12 解析納入核心模組 (Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules)](./backend/daily/2026-11-14.md) |
+| 🤖 AI | [Stanford 開源 Memorilla：為凍結 LLM 打造的潛在記憶模組 (Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs)](./ai/daily/2026-11-14.md) |
 
 ---
 
