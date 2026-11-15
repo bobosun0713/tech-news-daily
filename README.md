@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [逐一按 Tab 巡檢 5,495 個停靠點，373 個元素沒有焦點外框 (I pressed Tab through all 5,495 stops on our site: the order is perfect and 373 of them show no focus ring)](./frontend/daily/2026-11-14.md) |
-| ⚙️ 後端 | [Node.js 將 debounce、throttle 與 PKCS#12 解析納入核心模組 (Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules)](./backend/daily/2026-11-14.md) |
-| 🤖 AI | [Stanford 開源 Memorilla：為凍結 LLM 打造的潛在記憶模組 (Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs)](./ai/daily/2026-11-14.md) |
+| 🎨 前端 | [實測 Server Components 對內容網站 JavaScript 傳輸量的影響 (Two of our 1,029 page files are client components, and two pages 23 KB apart in HTML ship byte-identical JavaScript)](./frontend/daily/2026-11-15.md) |
+| ⚙️ 後端 | [Kiri 推出跨平台 Docker 相容容器工具 Beta (Kiri – The Modern Container Runtime)](./backend/daily/2026-11-15.md) |
+| 🤖 AI | [Bland 推出 Tofu-1 全雙工語音模型，開放企業研究預覽 (Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls)](./ai/daily/2026-11-15.md) |
 
 ---
 
