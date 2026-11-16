@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [實測 Server Components 對內容網站 JavaScript 傳輸量的影響 (Two of our 1,029 page files are client components, and two pages 23 KB apart in HTML ship byte-identical JavaScript)](./frontend/daily/2026-11-15.md) |
-| ⚙️ 後端 | [Kiri 推出跨平台 Docker 相容容器工具 Beta (Kiri – The Modern Container Runtime)](./backend/daily/2026-11-15.md) |
-| 🤖 AI | [Bland 推出 Tofu-1 全雙工語音模型，開放企業研究預覽 (Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls)](./ai/daily/2026-11-15.md) |
+| ⚙️ 後端 | [OpenSSH musl 驗證繞過漏洞傳出遭實際利用，Alpine 使用者應立即修補 (Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw)](./backend/daily/2026-11-16.md) |
+| 🤖 AI | [VibePrevisBench：評估 AI 代理以 Blender 生成 4D 場景 (VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender)](./ai/daily/2026-11-16.md) |
 
 ---
 

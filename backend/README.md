@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-16](./daily/2026-11-16.md) — OpenSSH musl 驗證繞過漏洞傳出遭實際利用，Alpine 使用者應立即修補 (Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw)
 - [2026-11-15](./daily/2026-11-15.md) — Kiri 推出跨平台 Docker 相容容器工具 Beta (Kiri – The Modern Container Runtime)
 - [2026-11-14](./daily/2026-11-14.md) — Node.js 將 debounce、throttle 與 PKCS#12 解析納入核心模組 (Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules)
 - [2026-11-13](./daily/2026-11-13.md) — Netflix 將營運資料轉為知識圖譜，用於 AI 驅動的可觀測性 (Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability)
 - [2026-11-12](./daily/2026-11-12.md) — LinkedIn 以自研 GitOps 引擎取代 Argo CD，用於 Kubernetes 部署 (LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments)
 - [2026-11-11](./daily/2026-11-11.md) — CoreWeave 推出託管 PostgreSQL，將資料庫部署於 AI 運算叢集 (CoreWeave Database Launches So AI Teams Can Build, Run, and Scale Production Applications on One Platform)
 - [2026-11-10](./daily/2026-11-10.md) — Effect 4.0 發布：無相依套件重寫，套件體積縮小 5 倍並提供長期支援 (Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support)
-- [2026-11-09](./daily/2026-11-09.md) — Tokio 推出 Topcoat：內建完整配備的 Rust 全端框架 (Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework)
 <!-- DAILY_INDEX_END -->
 
 ---
