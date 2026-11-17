@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [實測 Server Components 對內容網站 JavaScript 傳輸量的影響 (Two of our 1,029 page files are client components, and two pages 23 KB apart in HTML ship byte-identical JavaScript)](./frontend/daily/2026-11-15.md) |
-| ⚙️ 後端 | [OpenSSH musl 驗證繞過漏洞傳出遭實際利用，Alpine 使用者應立即修補 (Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw)](./backend/daily/2026-11-16.md) |
-| 🤖 AI | [VibePrevisBench：評估 AI 代理以 Blender 生成 4D 場景 (VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender)](./ai/daily/2026-11-16.md) |
+| 🎨 前端 | [修正 Vite 建置的 Forge Custom UI 部署空白頁：改用相對資源路徑 (Forge Custom UI blank page after deploy: Vite asset paths)](./frontend/daily/2026-11-17.md) |
+| ⚙️ 後端 | [微軟推出 .NET 11：C# 15 聯集型別、Native AOT CLI 與 MAUI 預設 CoreCLR (Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI)](./backend/daily/2026-11-17.md) |
+| 🤖 AI | [SPILLWAY：以目標准入與內容清理分離防禦工具代理提示注入 (SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection)](./ai/daily/2026-11-17.md) |
 
 ---
 
