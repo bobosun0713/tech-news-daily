@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-18](./daily/2026-11-18.md) — Vercel 推出 UI SDK，供 AI 代理組合可重用 UI 行為 (Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors)
 - [2026-11-17](./daily/2026-11-17.md) — 修正 Vite 建置的 Forge Custom UI 部署空白頁：改用相對資源路徑 (Forge Custom UI blank page after deploy: Vite asset paths)
 - [2026-11-15](./daily/2026-11-15.md) — 實測 Server Components 對內容網站 JavaScript 傳輸量的影響 (Two of our 1,029 page files are client components, and two pages 23 KB apart in HTML ship byte-identical JavaScript)
 - [2026-11-14](./daily/2026-11-14.md) — 逐一按 Tab 巡檢 5,495 個停靠點，373 個元素沒有焦點外框 (I pressed Tab through all 5,495 stops on our site: the order is perfect and 373 of them show no focus ring)
 - [2026-11-13](./daily/2026-11-13.md) — 以 VITE_ 或 NEXT_PUBLIC_ 前綴的 Telegram token 會出現在前端 bundle 中 (Telegram token in VITE_ or NEXT_PUBLIC_? It's in your bundle)
 - [2026-11-12](./daily/2026-11-12.md) — 我做了一個工具，檢查 Vue Vapor 模式會破壞你應用程式的哪些部分 (I built a tool that tells you what Vue Vapor mode will break in your app)
 - [2026-11-11](./daily/2026-11-11.md) — Vite 建置遷移讓型別檢查中斷四個月 (We moved our portal build to Vite and stopped type checking for four months)
-- [2026-11-10](./daily/2026-11-10.md) — AI Studio 匯出的應用可能夾帶 Gemini 金鑰，部署前檢查 dist/ 中的 AIza (Your AI Studio app export ships your Gemini key. Check dist/ for AIza)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-11-10](./archives/2026-11-page-1.md) — React INP 基準測試：分段處理、startTransition 與 scheduler.yield 比較 (React INP Benchmark: Chunking vs startTransition vs scheduler.yield)
 - [2026-11-09](./archives/2026-11-page-1.md) — Cloudflare 啟動 Vite 生態系基金，首輪撥款 301,300 美元 (Launching the Vite Ecosystem Fund)
 - [2026-11-05](./archives/2026-11-page-1.md) — Vite 8.3.6：修正解析與建置問題，並改善效能 (v8.3.6)
 - [2026-11-04](./archives/2026-11-page-1.md) — Ant Design 6.7.0：元件 API 與無障礙支援擴充 (6.7.0)
