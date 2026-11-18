@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [修正 Vite 建置的 Forge Custom UI 部署空白頁：改用相對資源路徑 (Forge Custom UI blank page after deploy: Vite asset paths)](./frontend/daily/2026-11-17.md) |
-| ⚙️ 後端 | [微軟推出 .NET 11：C# 15 聯集型別、Native AOT CLI 與 MAUI 預設 CoreCLR (Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI)](./backend/daily/2026-11-17.md) |
-| 🤖 AI | [SPILLWAY：以目標准入與內容清理分離防禦工具代理提示注入 (SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection)](./ai/daily/2026-11-17.md) |
+| 🎨 前端 | [Vercel 推出 UI SDK，供 AI 代理組合可重用 UI 行為 (Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors)](./frontend/daily/2026-11-18.md) |
+| ⚙️ 後端 | 今日無符合發布日期與品質門檻的項目 |
+| 🤖 AI | [RepoFactory：以環境演化迴圈擴展長時程編碼代理訓練 (From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop)](./ai/daily/2026-11-18.md) |
 
 ---
 
