@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-20](./daily/2026-11-20.md) — WeVisForensics：自我演進代理偵測 AI 生成影片 (WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection)
 - [2026-11-18](./daily/2026-11-18.md) — RepoFactory：以環境演化迴圈擴展長時程編碼代理訓練 (From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop)
 - [2026-11-17](./daily/2026-11-17.md) — SPILLWAY：以目標准入與內容清理分離防禦工具代理提示注入 (SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection)
 - [2026-11-16](./daily/2026-11-16.md) — VibePrevisBench：評估 AI 代理以 Blender 生成 4D 場景 (VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender)
 - [2026-11-15](./daily/2026-11-15.md) — Bland 推出 Tofu-1 全雙工語音模型，開放企業研究預覽 (Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls)
 - [2026-11-14](./daily/2026-11-14.md) — Stanford 開源 Memorilla：為凍結 LLM 打造的潛在記憶模組 (Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs)
 - [2026-11-13](./daily/2026-11-13.md) — Google 開源 AQuA：診斷正式環境 AI 代理失敗的環境品質代理 (Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures)
-- [2026-11-12](./daily/2026-11-12.md) — Evolving Infra：面向代理工作負載、可規模化的自適應 LLM 推論服務 (Evolving Infra: Agent-Adaptive LLM Serving at Scale)
 <!-- DAILY_INDEX_END -->
 ---
 
@@ -24,6 +24,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-11-12](./archives/2026-11-page-1.md) — Evolving Infra：面向代理工作負載、可規模化的自適應 LLM 推論服務 (Evolving Infra: Agent-Adaptive LLM Serving at Scale)
 - [2026-11-11](./archives/2026-11-page-1.md) — Qwen4-Max Preview 開放體驗：支援百萬 token 與多模態工具呼叫 (qwen4-max-preview)
 - [2026-11-10](./archives/2026-11-page-1.md) — Meta 發布 Muse Ember：為高量代理工作打造的 1M 上下文模型 (Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work)
 - [2026-11-07](./archives/2026-11-page-1.md) — INT4 蒸餾模型的梯度衝突：用單片量測定位 teacher drift (Diagnosing teacher drift in an INT4 CPU student)

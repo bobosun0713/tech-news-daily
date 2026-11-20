@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [Vercel 推出 UI SDK，供 AI 代理組合可重用 UI 行為 (Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors)](./frontend/daily/2026-11-18.md) |
-| ⚙️ 後端 | 今日無符合發布日期與品質門檻的項目 |
-| 🤖 AI | [RepoFactory：以環境演化迴圈擴展長時程編碼代理訓練 (From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop)](./ai/daily/2026-11-18.md) |
+| ⚙️ 後端 | [AWS Emulator 首週外部評測：服務保真度落差與 IAM 限制 (AWS Releases a Free Local Emulator of AWS Built Entirely by Agents)](./backend/daily/2026-11-20.md) |
+| 🤖 AI | [WeVisForensics：自我演進代理偵測 AI 生成影片 (WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection)](./ai/daily/2026-11-20.md) |
 
 ---
 
