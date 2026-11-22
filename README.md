@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vercel 推出 UI SDK，供 AI 代理組合可重用 UI 行為 (Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors)](./frontend/daily/2026-11-18.md) |
-| ⚙️ 後端 | [AWS Emulator 首週外部評測：服務保真度落差與 IAM 限制 (AWS Releases a Free Local Emulator of AWS Built Entirely by Agents)](./backend/daily/2026-11-20.md) |
-| 🤖 AI | [WeVisForensics：自我演進代理偵測 AI 生成影片 (WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection)](./ai/daily/2026-11-20.md) |
+| 🎨 前端 | [實測 130 個 Next.js 網站頁面：HTML 可見文字不到 3%，Brotli 傳輸量少 41% (Googlebot Reads 2MB of HTML. I Measured 130 Pages on My Next.js Sites: Under 3% Was Text)](./frontend/daily/2026-11-22.md) |
+| ⚙️ 後端 | [舊日誌表中的 32 位整數，如何讓 Clickpost 訂單停擺 54 分鐘 (The column nobody monitored: how a 32-bit integer stopped Clickpost's orders for 54 minutes)](./backend/daily/2026-11-22.md) |
+| 🤖 AI | [讓 Claude Code 自主工作 8 小時：以 hook 控制風險的實作 (I let Claude Code work alone for 8 hours. Here is the hook that made it safe)](./ai/daily/2026-11-22.md) |
 
 ---
 
