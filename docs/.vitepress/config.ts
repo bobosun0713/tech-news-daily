@@ -28,6 +28,7 @@ export default defineConfig({
     "frontend/README.md": "frontend/index.md",
     "backend/README.md": "backend/index.md",
     "ai/README.md": "ai/index.md",
+    "security/README.md": "security/index.md",
   },
 
   title: "Tech News Daily",
@@ -38,6 +39,7 @@ export default defineConfig({
       { text: "前端", link: "/frontend/" },
       { text: "後端", link: "/backend/" },
       { text: "AI", link: "/ai/" },
+      { text: "資安", link: "/security/" },
     ],
     sidebar: {
       "/frontend/": [
@@ -62,6 +64,14 @@ export default defineConfig({
           text: "每日日誌",
           collapsed: false,
           items: getDailySidebar("ai"),
+        },
+      ],
+      "/security/": [
+        { text: "大廳", items: [{ text: "最新資訊總覽", link: "/security/" }] },
+        {
+          text: "每日日誌",
+          collapsed: false,
+          items: getDailySidebar("security"),
         },
       ],
     },

@@ -2,7 +2,7 @@
 
 > 每日精選 LLM、AI 開發工具、Agent 設計與模型釋出高價值更新。
 
-[🏠 回到總大廳](../README.md) | [🎨 前端](../frontend/README.md) | [⚙️ 後端](../backend/README.md)
+[🏠 回到總大廳](../README.md) | [🎨 前端](../frontend/README.md) | [⚙️ 後端](../backend/README.md) | [🛡️ 資安](../security/README.md)
 
 ---
 

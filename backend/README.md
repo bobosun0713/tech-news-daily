@@ -2,7 +2,7 @@
 
 > 每日精選架構演進、資料庫、API 設計、雲端與資安高價值更新。
 
-[🏠 回到總大廳](../README.md) | [🎨 前端](../frontend/README.md) | [🤖 AI](../ai/README.md)
+[🏠 回到總大廳](../README.md) | [🎨 前端](../frontend/README.md) | [🤖 AI](../ai/README.md) | [🛡️ 資安](../security/README.md)
 
 ---
 
