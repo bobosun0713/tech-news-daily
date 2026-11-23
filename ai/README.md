@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-23](./daily/2026-11-23.md) — Clover-35B-A3B-Preview 技術報告 (Clover-35B-A3B-Preview Technical Report)
 - [2026-11-22](./daily/2026-11-22.md) — 讓 Claude Code 自主工作 8 小時：以 hook 控制風險的實作 (I let Claude Code work alone for 8 hours. Here is the hook that made it safe)
 - [2026-11-20](./daily/2026-11-20.md) — WeVisForensics：自我演進代理偵測 AI 生成影片 (WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection)
 - [2026-11-18](./daily/2026-11-18.md) — RepoFactory：以環境演化迴圈擴展長時程編碼代理訓練 (From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop)
 - [2026-11-17](./daily/2026-11-17.md) — SPILLWAY：以目標准入與內容清理分離防禦工具代理提示注入 (SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection)
 - [2026-11-16](./daily/2026-11-16.md) — VibePrevisBench：評估 AI 代理以 Blender 生成 4D 場景 (VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender)
 - [2026-11-15](./daily/2026-11-15.md) — Bland 推出 Tofu-1 全雙工語音模型，開放企業研究預覽 (Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls)
-- [2026-11-14](./daily/2026-11-14.md) — Stanford 開源 Memorilla：為凍結 LLM 打造的潛在記憶模組 (Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs)
 <!-- DAILY_INDEX_END -->
 ---
 
@@ -24,6 +24,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-11-14](./archives/2026-11-page-1.md) — Stanford 開源 Memorilla：為凍結 LLM 打造的潛在記憶模組 (Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs)
 - [2026-11-12](./archives/2026-11-page-1.md) — Evolving Infra：面向代理工作負載、可規模化的自適應 LLM 推論服務 (Evolving Infra: Agent-Adaptive LLM Serving at Scale)
 - [2026-11-11](./archives/2026-11-page-1.md) — Qwen4-Max Preview 開放體驗：支援百萬 token 與多模態工具呼叫 (qwen4-max-preview)
 - [2026-11-10](./archives/2026-11-page-1.md) — Meta 發布 Muse Ember：為高量代理工作打造的 1M 上下文模型 (Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work)

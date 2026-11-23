@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [實測 130 個 Next.js 網站頁面：HTML 可見文字不到 3%，Brotli 傳輸量少 41% (Googlebot Reads 2MB of HTML. I Measured 130 Pages on My Next.js Sites: Under 3% Was Text)](./frontend/daily/2026-11-22.md) |
-| ⚙️ 後端 | [舊日誌表中的 32 位整數，如何讓 Clickpost 訂單停擺 54 分鐘 (The column nobody monitored: how a 32-bit integer stopped Clickpost's orders for 54 minutes)](./backend/daily/2026-11-22.md) |
-| 🤖 AI | [讓 Claude Code 自主工作 8 小時：以 hook 控制風險的實作 (I let Claude Code work alone for 8 hours. Here is the hook that made it safe)](./ai/daily/2026-11-22.md) |
+| ⚙️ 後端 | [Webhook 簽章每 300 筆就有 1 筆失敗：問題出在 JSON 重序列化 (Our webhook signature check failed 1 in 300 events)](./backend/daily/2026-11-23.md) |
+| 🤖 AI | [Clover-35B-A3B-Preview 技術報告 (Clover-35B-A3B-Preview Technical Report)](./ai/daily/2026-11-23.md) |
 
 ---
 
