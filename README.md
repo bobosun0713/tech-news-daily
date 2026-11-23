@@ -45,5 +45,7 @@
  ┃ ┣ 📂 archives/                 # 資安歷史歸檔
  ┃ ┣ 📂 daily/                    # 資安每日日誌 (YYYY-MM-DD.md)
  ┃ ┗ 📜 README.md                 # 資安領域大廳與最近 7 日索引
+ ┣ 📂 docs/.vitepress/
+ ┃ ┗ 📜 config.ts                 # VitePress 導覽與每日頁面側欄設定
  ┗ 📜 README.md                   # 專案總大廳與今日各領域頭條
 ```
