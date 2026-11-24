@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [實測 130 個 Next.js 網站頁面：HTML 可見文字不到 3%，Brotli 傳輸量少 41% (Googlebot Reads 2MB of HTML. I Measured 130 Pages on My Next.js Sites: Under 3% Was Text)](./frontend/daily/2026-11-22.md) |
+| 🎨 前端 | [W3C 首度發布游標驅動動畫模組草案 (First Public Working Draft: Pointer-driven Animations Module Level 1)](./frontend/daily/2026-11-24.md) |
 | ⚙️ 後端 | [Webhook 簽章每 300 筆就有 1 筆失敗：問題出在 JSON 重序列化 (Our webhook signature check failed 1 in 300 events)](./backend/daily/2026-11-23.md) |
-| 🤖 AI | [Clover-35B-A3B-Preview 技術報告 (Clover-35B-A3B-Preview Technical Report)](./ai/daily/2026-11-23.md) |
+| 🤖 AI | [AutoPILOT：即時遊戲的視覺代理 Harness (AutoPILOT: A Visual Agent Harness for Real-Time Gameplay)](./ai/daily/2026-11-24.md) |
 
 ---
 
