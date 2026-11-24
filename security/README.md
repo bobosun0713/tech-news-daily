@@ -10,9 +10,8 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-24](./daily/2026-11-24.md) — Rackspace Spot 遭入侵，客戶 Kubernetes Secrets 可能外洩 (Rackspace Spot breach let hackers access customer Kubernetes secrets)
 <!-- DAILY_INDEX_END -->
-
-目前尚無資安每日情報；首次發布後會在此列出最近 7 天的索引。
 
 ---
 
