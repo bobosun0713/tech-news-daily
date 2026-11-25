@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
-- [2026-11-24](./daily/2026-11-24.md) — W3C 首度發布游標驅動動畫模組草案 (First Public Working Draft: Pointer-driven Animations Module Level 1)
+- [2026-11-25](./daily/2026-11-25.md) — Vite 8.4.0-beta.2：改善外掛錯誤診斷並修正建置問題 (v8.4.0-beta.2)
+- [2026-11-24](./daily/2026-11-24.md) — W3C 首度發布游標驅動動畫草案 (First Public Working Draft: Pointer-driven Animations Module Level 1)
 - [2026-11-22](./daily/2026-11-22.md) — 實測 130 個 Next.js 網站頁面：HTML 可見文字不到 3%，Brotli 傳輸量少 41% (Googlebot Reads 2MB of HTML. I Measured 130 Pages on My Next.js Sites: Under 3% Was Text)
 - [2026-11-18](./daily/2026-11-18.md) — Vercel 推出 UI SDK，供 AI 代理組合可重用 UI 行為 (Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors)
 - [2026-11-17](./daily/2026-11-17.md) — 修正 Vite 建置的 Forge Custom UI 部署空白頁：改用相對資源路徑 (Forge Custom UI blank page after deploy: Vite asset paths)
 - [2026-11-15](./daily/2026-11-15.md) — 實測 Server Components 對內容網站 JavaScript 傳輸量的影響 (Two of our 1,029 page files are client components, and two pages 23 KB apart in HTML ship byte-identical JavaScript)
 - [2026-11-14](./daily/2026-11-14.md) — 逐一按 Tab 巡檢 5,495 個停靠點，373 個元素沒有焦點外框 (I pressed Tab through all 5,495 stops on our site: the order is perfect and 373 of them show no focus ring)
-- [2026-11-13](./daily/2026-11-13.md) — 以 VITE_ 或 NEXT_PUBLIC_ 前綴的 Telegram token 會出現在前端 bundle 中 (Telegram token in VITE_ or NEXT_PUBLIC_? It's in your bundle)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-11-13](./archives/2026-11-page-1.md) — 以 VITE_ 或 NEXT_PUBLIC_ 前綴的 Telegram token，會出現在前端 bundle 中 (Telegram token in VITE_ or NEXT_PUBLIC_? It's in your bundle)
 - [2026-11-10](./archives/2026-11-page-1.md) — React INP 基準測試：分段處理、startTransition 與 scheduler.yield 比較 (React INP Benchmark: Chunking vs startTransition vs scheduler.yield)
 - [2026-11-09](./archives/2026-11-page-1.md) — Cloudflare 啟動 Vite 生態系基金，首輪撥款 301,300 美元 (Launching the Vite Ecosystem Fund)
 - [2026-11-05](./archives/2026-11-page-1.md) — Vite 8.3.6：修正解析與建置問題，並改善效能 (v8.3.6)

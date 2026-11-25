@@ -8,10 +8,10 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [W3C 首度發布游標驅動動畫模組草案 (First Public Working Draft: Pointer-driven Animations Module Level 1)](./frontend/daily/2026-11-24.md) |
+| 🎨 前端 | [Vite 8.4.0-beta.2：改善外掛錯誤診斷並修正建置問題 (v8.4.0-beta.2)](./frontend/daily/2026-11-25.md) |
 | ⚙️ 後端 | [Webhook 簽章每 300 筆就有 1 筆失敗：問題出在 JSON 重序列化 (Our webhook signature check failed 1 in 300 events)](./backend/daily/2026-11-23.md) |
-| 🤖 AI | [AutoPILOT：即時遊戲的視覺代理 Harness (AutoPILOT: A Visual Agent Harness for Real-Time Gameplay)](./ai/daily/2026-11-24.md) |
-| 🛡️ 資安 | [Rackspace Spot 遭入侵，客戶 Kubernetes Secrets 可能外洩 (Rackspace Spot breach let hackers access customer Kubernetes secrets)](./security/daily/2026-11-24.md) |
+| 🤖 AI | [OpenHands 1.46：團隊對話管理、意見回饋與 Git 同步控制 (v1.46.0)](./ai/daily/2026-11-25.md) |
+| 🛡️ 資安 | [Hex.pm 套件登錄站遭 CVSS 10.0 漏洞入侵，六台伺服器受影響 (Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers)](./security/daily/2026-11-25.md) |
 
 ---
 
