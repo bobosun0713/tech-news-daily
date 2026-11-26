@@ -9,9 +9,9 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [Vite 8.4.0-beta.2：改善外掛錯誤診斷並修正建置問題 (v8.4.0-beta.2)](./frontend/daily/2026-11-25.md) |
-| ⚙️ 後端 | [Webhook 簽章每 300 筆就有 1 筆失敗：問題出在 JSON 重序列化 (Our webhook signature check failed 1 in 300 events)](./backend/daily/2026-11-23.md) |
-| 🤖 AI | [OpenHands 1.46：團隊對話管理、意見回饋與 Git 同步控制 (v1.46.0)](./ai/daily/2026-11-25.md) |
-| 🛡️ 資安 | [Hex.pm 套件登錄站遭 CVSS 10.0 漏洞入侵，六台伺服器受影響 (Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers)](./security/daily/2026-11-25.md) |
+| ⚙️ 後端 | [單一執行檔形式的 PostgreSQL 工具 (Minipg: PostgreSQL as a Single Executable)](./backend/daily/2026-11-26.md) |
+| 🤖 AI | [PyRUA-Dex：以程式代理學習雙手靈巧操作策略 (PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents)](./ai/daily/2026-11-26.md) |
+| 🛡️ 資安 | [1Password 員工 GitHub 帳號遭入侵，部分客戶資料外洩 (Update on a security incident involving 1Password’s backend systems)](./security/daily/2026-11-26.md) |
 
 ---
 
