@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-28](./daily/2026-11-28.md) — Xeno.JS Node.js 24 基準測試：比較 NestJS 與 node:http (Xeno.JS Benchmarks on Node.js 24: Comparing with NestJS and node:http)
 - [2026-11-26](./daily/2026-11-26.md) — 單一執行檔形式的 PostgreSQL 工具 (Minipg: PostgreSQL as a Single Executable)
 - [2026-11-23](./daily/2026-11-23.md) — Webhook 簽章每 300 筆就有 1 筆失敗：問題出在 JSON 重序列化 (Our webhook signature check failed 1 in 300 events)
 - [2026-11-22](./daily/2026-11-22.md) — 舊日誌表中的 32 位整數，如何讓 Clickpost 訂單停擺 54 分鐘 (The column nobody monitored: how a 32-bit integer stopped Clickpost's orders for 54 minutes)
 - [2026-11-20](./daily/2026-11-20.md) — AWS Emulator 首週外部評測：服務保真度落差與 IAM 限制 (AWS Releases a Free Local Emulator of AWS Built Entirely by Agents)
 - [2026-11-17](./daily/2026-11-17.md) — 微軟推出 .NET 11：C# 15 聯集型別、Native AOT CLI 與 MAUI 預設 CoreCLR (Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI)
 - [2026-11-16](./daily/2026-11-16.md) — OpenSSH musl 驗證繞過漏洞傳出遭實際利用，Alpine 使用者應立即修補 (Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw)
-- [2026-11-15](./daily/2026-11-15.md) — Kiri 推出跨平台 Docker 相容容器工具 Beta (Kiri – The Modern Container Runtime)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-11-15](./archives/2026-11-page-1.md) — Kiri 推出跨平台 Docker 相容容器工具 Beta (Kiri – The Modern Container Runtime)
 - [2026-11-14](./archives/2026-11-page-1.md) — Node.js 將 debounce、throttle 與 PKCS#12 解析納入核心模組 (Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules)
 - [2026-11-13](./archives/2026-11-page-1.md) — Netflix 將營運資料轉為知識圖譜，用於 AI 驅動的可觀測性 (Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability)
 - [2026-11-11](./archives/2026-11-page-1.md) — CoreWeave 推出託管 PostgreSQL，將資料庫部署於 AI 運算叢集 (CoreWeave Database Launches So AI Teams Can Build, Run, and Scale Production Applications on One Platform)
