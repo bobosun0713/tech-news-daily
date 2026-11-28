@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [Vite 8.4.0-beta.2：改善外掛錯誤診斷並修正建置問題 (v8.4.0-beta.2)](./frontend/daily/2026-11-25.md) |
-| ⚙️ 後端 | [單一執行檔形式的 PostgreSQL 工具 (Minipg: PostgreSQL as a Single Executable)](./backend/daily/2026-11-26.md) |
-| 🤖 AI | [PyRUA-Dex：以程式代理學習雙手靈巧操作策略 (PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents)](./ai/daily/2026-11-26.md) |
+| ⚙️ 後端 | [Xeno.JS Node.js 24 基準測試：比較 NestJS 與 node:http (Xeno.JS Benchmarks on Node.js 24: Comparing with NestJS and node:http)](./backend/daily/2026-11-28.md) |
+| 🤖 AI | [以 ADB 操控 Android：不再反覆截圖或傾倒原始 XML (Driving Android Phones Over ADB Without Screenshot Loops or Raw XML Dumps)](./ai/daily/2026-11-28.md) |
 | 🛡️ 資安 | [1Password 員工 GitHub 帳號遭入侵，部分客戶資料外洩 (Update on a security incident involving 1Password’s backend systems)](./security/daily/2026-11-26.md) |
 
 ---

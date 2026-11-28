@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-11-28](./daily/2026-11-28.md) — 以 ADB 操控 Android：不再反覆截圖或傾倒原始 XML (Driving Android Phones Over ADB Without Screenshot Loops or Raw XML Dumps)
 - [2026-11-26](./daily/2026-11-26.md) — PyRUA-Dex：以程式代理學習雙手靈巧操作策略 (PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents)
 - [2026-11-25](./daily/2026-11-25.md) — OpenHands 1.46：團隊對話管理、意見回饋與 Git 同步控制 (v1.46.0)
 - [2026-11-24](./daily/2026-11-24.md) — AutoPILOT：即時遊戲的視覺代理 Harness (AutoPILOT: A Visual Agent Harness for Real-Time Gameplay)
 - [2026-11-23](./daily/2026-11-23.md) — Clover-35B-A3B-Preview 技術報告 (Clover-35B-A3B-Preview Technical Report)
 - [2026-11-22](./daily/2026-11-22.md) — 讓 Claude Code 自主工作 8 小時：以 hook 控制風險的實作 (I let Claude Code work alone for 8 hours. Here is the hook that made it safe)
 - [2026-11-20](./daily/2026-11-20.md) — WeVisForensics：自我演進代理偵測 AI 生成影片 (WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection)
-- [2026-11-18](./daily/2026-11-18.md) — RepoFactory：以環境演化迴圈擴展長時程編碼代理訓練 (From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop)
 <!-- DAILY_INDEX_END -->
 ---
 
@@ -24,6 +24,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-11-18](./archives/2026-11-page-1.md) — RepoFactory：以環境演化迴圈擴展長時程編碼代理訓練 (From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop)
 - [2026-11-17](./archives/2026-11-page-1.md) — SPILLWAY：以目標准入與內容清理分離防禦工具代理提示注入 (SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection)
 - [2026-11-16](./archives/2026-11-page-1.md) — VibePrevisBench：評估 AI 代理以 Blender 生成 4D 場景 (VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender)
 - [2026-11-14](./archives/2026-11-page-1.md) — Stanford 開源 Memorilla：為凍結 LLM 打造的潛在記憶模組 (Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs)
